@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="300" viewBox="0 0 900 300">
+  <defs>
+    <clipPath id="clip-Artboard_1">
+      <rect width="900" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard – 1" clip-path="url(#clip-Artboard_1)">
+    <text id="Allow_Users_to_Collect_Badges" data-name="Allow Users to 
+Collect Badges" transform="translate(121 218)" fill="#222" font-size="20" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="-68.53" y="0">Allow Users to </tspan><tspan x="-68.35" y="27">Collect Badges</tspan></text>
+    <path id="certificate-solid" d="M110.533,61.679l11.083-10.847a5.742,5.742,0,0,0-2.57-9.722l-15.1-3.854L108.2,22.31a5.839,5.839,0,0,0-7.149-7.151L86.113,19.417l-3.852-15.1a5.783,5.783,0,0,0-9.719-2.571L61.7,12.911,50.856,1.742a5.783,5.783,0,0,0-9.719,2.571l-3.852,15.1L22.343,15.159a5.839,5.839,0,0,0-7.149,7.151l4.256,14.946-15.1,3.854a5.742,5.742,0,0,0-2.57,9.722L12.864,61.679,1.782,72.526a5.742,5.742,0,0,0,2.57,9.722l15.1,3.854-4.256,14.946a5.839,5.839,0,0,0,7.149,7.151l14.941-4.258,3.852,15.1a5.73,5.73,0,0,0,9.719,2.571L61.7,110.53l10.843,11.087a5.754,5.754,0,0,0,9.719-2.571l3.852-15.1,14.941,4.258a5.839,5.839,0,0,0,7.149-7.151L103.946,86.1l15.1-3.854a5.742,5.742,0,0,0,2.57-9.722Z" transform="translate(59.602 47.603)" fill="#d34759"/>
+    <path id="wine-bottle-solid" d="M128.808,18.427,111.574,1.193a4.062,4.062,0,0,0-5.746,0l-5.746,5.746a4.062,4.062,0,0,0,0,5.746L80.617,32.15a32.476,32.476,0,0,0-35.639,6.914L4.766,79.275a16.251,16.251,0,0,0,0,22.98l22.98,22.98a16.251,16.251,0,0,0,22.98,0L90.94,85.021a32.475,32.475,0,0,0,6.914-35.639L117.32,29.916a4.062,4.062,0,0,0,5.746,0l5.746-5.746a4.062,4.062,0,0,0,0-5.743Zm-83.3,89.046-22.98-22.98L53.514,53.507l22.98,22.98Z" transform="translate(384.992 40.997)" fill="#d34759"/>
+    <text id="Allow_users_to_scan_wine_labels_and_add_wine_bottles_to_their_collection" data-name="Allow users to scan 
+wine labels and add wine 
+bottles to their collection" transform="translate(432 218)" fill="#222" font-size="20" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="-89.84" y="0">Allow users to scan </tspan><tspan x="-116.49" y="27">wine labels and add wine </tspan><tspan x="-114.29" y="54">bottles to their collection</tspan></text>
+    <path id="ticket-alt-solid" d="M33.245,88.934h83.112V138.8H33.245Zm103.89,24.934A12.467,12.467,0,0,0,149.6,126.334v24.934a12.467,12.467,0,0,1-12.467,12.467H12.467A12.467,12.467,0,0,1,0,151.268V126.334a12.467,12.467,0,0,0,12.467-12.467A12.467,12.467,0,0,0,0,101.4V76.467A12.467,12.467,0,0,1,12.467,64H137.135A12.467,12.467,0,0,1,149.6,76.467V101.4A12.467,12.467,0,0,0,137.135,113.867ZM124.668,86.856a6.233,6.233,0,0,0-6.233-6.233H31.167a6.233,6.233,0,0,0-6.233,6.233v54.023a6.233,6.233,0,0,0,6.233,6.233h87.268a6.233,6.233,0,0,0,6.233-6.233Z" transform="translate(679.59 -4.273)" fill="#d34759"/>
+    <text id="Allow_users_to_buy_Tickets_for_wine_events_Without_leaving_the_app" data-name="Allow users to buy
+Tickets for wine events 
+Without leaving the app" transform="translate(754 218)" fill="#222" font-size="20" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="-83.72" y="0">Allow users to buy</tspan><tspan x="-106.87" y="27">Tickets for wine events </tspan><tspan x="-109.27" y="54">Without leaving the app</tspan></text>
+  </g>
+</svg>
