@@ -70,7 +70,7 @@ html, body {
 }
 .problem {
     display: flex;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     flex-direction: row;
     height: auto;
     flex-basis: 100%;
@@ -83,6 +83,8 @@ html, body {
   font-size: 1.5rem;
   color: #323648;
   font-weight: 600;
+  letter-spacing: 1x;
+  opacity: .8;
 }
 .problem p {
     width: 85%;
@@ -91,9 +93,9 @@ html, body {
     margin-left: 5%;
     font-family: Avenir;
     font-size: 1.15rem;
-    color: #323648;
+    color: #333;
     font-weight: 300;
-    opacity: .8;
+    opacity: .9;
 }
 .problem-description {
     flex: 1;
@@ -103,7 +105,8 @@ html, body {
 .problem-chart {
   flex: 1;
   display: flex;
-  border: 1px solid red;
+  height: 400px;
+  /* border: 1px solid red; */
 }
 .problem-chart img {
   width: 100%;
