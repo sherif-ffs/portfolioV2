@@ -1,0 +1,106 @@
+html {
+    scroll-behavior: smooth;
+  }
+  body {
+    margin: 0;
+    display: grid;
+    grid-template-columns: min-content 1fr;
+    font-family: system-ui, sans-serif;
+  }
+  .banner {
+    grid-column: 1 / 3;
+    background-image: url(../assets/wine/banner.png.svg);
+    background: #455A64;
+  }
+  .banner > img {
+    object-fit: cover;
+    width: 100%;
+  }
+  .sidebar {
+    white-space: nowrap;
+    background: #fafafa;
+    margin-top: 20vh;
+  }
+  .sidebar .sidebar-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  @media (min-height: 300px) {
+    .sidebar .sidebar-list {
+      position: sticky;
+      top: 0;
+    }
+  }
+  .sidebar .sidebar-list .sidebar-item .sidebar-item-link {
+    display: block;
+    padding: 1rem 4rem;
+    color: red;
+    text-decoration: none;
+  }
+  .sidebar .sidebar-list .sidebar-item .sidebar-item-link.current {
+    background: #f34f34;
+  }
+  main {
+    padding-bottom: 40rem;
+    margin-top: 20vh;
+  }
+  section {
+    padding: 2rem;
+    margin: 0 0 2rem 0;
+  }
+  #overview {
+      /* border: 1px solid red; */
+  }
+.overview-title {
+    text-align: center;
+    font-size: 2rem;
+    font-size: 1.5rem;
+    color: #222;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    opacity: .7;
+    font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
+}
+  .problem {
+      display: flex;
+      flex-direction: row;
+      height: auto;
+      flex-basis: 100%;
+      margin-top: 8vh;
+  }
+  .problem h1 {
+    text-align: left;
+    font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    color: #323648;
+    font-weight: 600;
+  }
+  .problem p {
+      width: 90%;
+      text-align: left;
+      margin-top: -5px;
+      font-family: Avenir;
+      font-size: 1.15rem;
+      color: #323648;
+      font-weight: 300;
+      opacity: .8;
+  }
+  .problem-description {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+  }
+  .problem-chart {
+    flex: 1;
+    display: flex;
+}
+.problem-chart img {
+    width: 100%;
+}
+  footer {
+    grid-column: 1 / 3;
+    background: #607D8B;
+    padding: 5rem 1rem;
+  }
