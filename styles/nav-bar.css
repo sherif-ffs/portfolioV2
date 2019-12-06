@@ -110,10 +110,10 @@
     header nav.active {
       left: 0%; }
   
-    header nav ul {
+    header nav .navigation-list {
       display: block;
       text-align: center;
-      margin-top: 35px; }
+      margin-top: 55px; }
   
     header nav ul li {
       font-size: 35px;
@@ -148,6 +148,7 @@
   
     header nav ul {
       display: block;
+      border: 1px solid red!important;
       text-align: center;
       margin-top: 35px; }
   
