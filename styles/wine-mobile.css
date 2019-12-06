@@ -6,11 +6,135 @@
     background-size: cover;
     background-repeat: none;
   } */
+
+  html, body {
+      margin: 0;
+      overflow-x: hidden;
+      font-family: 'Lato','Avenir', sans-serif;
+      background-color: #fafafa;    
+      scroll-behavior: smooth;
+  }
   .banner img {
-    height: 500px;
+    height: 400px;
     width: 100%;
   }
   .sidebar {
       display: none;
+  }
+  .overview {
+    margin-top: -15vh;
+  }
+  .overview-title {
+    text-align: center;
+  }    
+  
+  .problem {
+    flex-direction: column;
+  }
+  .problem p {
+    width: 90%;
+    margin-left: 15px;
+    font-size: 18px;
+  }
+  .problem-chart {
+    width: 100%;
+    margin-top: 2vh;
+    height: auto;
+  }
+  .the-facts-image {
+    width: 100%;
+    heighT: auto;
+    margin-left: 0px;
+    margin-top: 1vh;
+  }
+  .solution {
+    flex-direction: column;
+  }
+  .solution-description {
+    margin-left: 0px; 
+  }
+  .solution-description h1 {
+    margin-left: 0px;
+    text-align: center;
+  }
+  .solution-description p {
+    margin-left: 5%;
+    font-size: 18px;
+    width: 85%;
+  }
+  .involvement {
+    font-size: 18px;
+    margin-left: 5%;
+  }
+  .feature {
+    flex-direction: column;
+    margin-top: 5vh;
+    width: 100%;
+  }
+  .feature .gif {
+  width: 300px;
+  flex: .5;
+  margin-top: 3vh;
+  height: 100px;
+  border-radius: 45px;
+  margin-left: 5%;
+  box-shadow: 2px 4px 8px rgba(34, 34, 34,.3);
+  }
+  .feature-description {
+    flex: 1;
+  }
+  .feature-description h1 {
+    margin-top: 15%;
+    margin-left: 5%;
+    font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    color: #D34759;
+    text-shadow: 0px 1px 1px rgba(69, 69, 69,.4);
+    font-weight: 800;
+    letter-spacing: 1x;
+    opacity: .8;
+  }
+  .feature-description p {
+    width: 80%;
+    text-align: left;
+    margin-top: 5px;
+    margin-left: 5%;
+    font-family: Avenir;
+    font-size: 1.4rem;
+    color: #333;
+    font-weight: 300;
+    opacity: .9;
+  }
+  .jump-to-prototype {
+    width: 80%;
+    margin-left: 5%;
+  }
+  .our-approach img {
+    width: 100%;
+    heighT: auto;
+    margin-left: 0px;
+    margin-top: 1vh;
+  }
+  .my-contribution h1 {
+    text-align: left;
+    margin-left: 2%;
+    font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    color: #323648;
+    font-weight: 600;
+    letter-spacing: 1x;
+    opacity: .8;
+  }
+  .my-contribution p {
+    width: 90%;
+    text-align: left;
+    margin-top: 5px;
+    margin-left: 2%;
+    font-family: Avenir;
+    font-size: 1.2rem;
+    color: #333;
+    font-weight: 300;
+    opacity: .9;
+    margin-top: 3vh;
   }
 }
