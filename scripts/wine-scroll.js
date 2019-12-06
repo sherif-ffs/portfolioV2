@@ -9,7 +9,9 @@ window.addEventListener("scroll", (event) => {
 
   mainNavLinks.forEach(link => {
     let section = document.querySelector(link.hash);
-
+    if (!section) {
+      section = document.querySelector('#overview');
+    }
     if (
       section.offsetTop <= fromTop &&
       section.offsetTop + section.offsetHeight > fromTop

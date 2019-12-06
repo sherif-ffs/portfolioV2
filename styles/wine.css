@@ -18,7 +18,7 @@ html, body {
     width: 100%;
 }
 .container {
-    height: 6000px;
+    height: 9000px;
     width: 100%;
     display: flex;
     flex-direction: row;
@@ -28,9 +28,12 @@ html, body {
     flex: .75;
 }
 .sidebar-list {
-    height: 35%;
+    height: 350px;
     width: 100%;
-    margin-top: 15vh;
+    margin-top: 55vh;
+    position: sticky;
+    top: 0;
+    border: 1px solid red;
 }
 .sidebar .sidebar-list .sidebar-item .sidebar-item-link {
     display: block;
@@ -49,12 +52,12 @@ html, body {
     transition: .3s;
     color: #fafafa;
   }
-@media (min-height: 300px) {
+/* @media (min-height: 100px) {
    .sidebar-list {
       position: sticky;
       top: 0;
     }
-  }
+  } */
 .content-wrapper {
     flex: 5;
     display: flex;
