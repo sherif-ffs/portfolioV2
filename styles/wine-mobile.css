@@ -137,4 +137,37 @@
     opacity: .9;
     margin-top: 3vh;
   }
+  .research-title {
+    text-align: left;
+    margin-left: 10%;
+  }
+  .analysis {
+    margin-top: 5vh;
+  }
+  .analysis table{
+    width: 100%;
+    table-layout: fixed;
+  }
+  td, th {
+    /* border: 1px solid #dddddd; */
+    text-align: left;
+    padding: 15px;
+    font-size: 12px;
+    margin-top: 15px;
+    font-family: Lato, Avenir, Arial, Helvetica, sans-serif;  
+  }
+  .analysis img {
+    width: 70%;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 1vh;
+  }
+  .analysis li {
+    width: 80%;
+    margin-left: 10%;
+  }
+  .analysis p {
+    width: 80%;
+    margin-left: 10%;
+  }
 }
