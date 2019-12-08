@@ -17,3 +17,8 @@ document.querySelector('.nav-title').addEventListener('mouseleave', () => {
   document.querySelector('.right-bracket').style.paddingLeft = "0px";
   document.querySelector('.right-bracket').style.color = "#323648";
 });
+
+
+for (let i=0; i<100; i++) {
+  console.log( i + '👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀');
+}
