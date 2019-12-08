@@ -218,4 +218,7 @@
   margin-left: 5%;
   flex-direction: column;
   }
+  .feedback-and-iterations h3 {
+    width: 90%;
+  }
 }
