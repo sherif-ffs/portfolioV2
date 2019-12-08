@@ -33,7 +33,6 @@ html, body {
     margin-top: 55vh;
     position: sticky;
     top: 0;
-    border: 1px solid red;
 }
 .sidebar .sidebar-list .sidebar-item .sidebar-item-link {
     display: block;
@@ -52,12 +51,12 @@ html, body {
     transition: .3s;
     color: #fafafa;
   }
-/* @media (min-height: 100px) {
+@media (min-height: 100px) {
    .sidebar-list {
       position: sticky;
       top: 0;
     }
-  } */
+  }
 .content-wrapper {
     flex: 5;
     display: flex;
@@ -663,8 +662,7 @@ td, th {
   }
   #prototype {
     width: 100%;
-    height: 50vh;
-    border: 1px solid red;
+    clear: both;
   }
   .prototype-title {
     text-align: center;
@@ -693,3 +691,43 @@ td, th {
     margin-top: 10vh;
     width: 100%;
   }
+  #future {
+    margin-top: 20vh;
+    width: 100%;
+  }
+  .future-title {
+    text-align: center;
+    font-size: 2rem;
+    color: #222;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    opacity: .7;
+    font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
+  }
+.future-steps li {
+  width: 80%;
+  text-align: left;
+  margin-top: 2px;
+  margin-left: 14%;
+  list-style-type: disc;
+  font-family: Avenir;
+  font-size: 1.2rem;
+  color: #333;
+  font-weight: 300;
+  opacity: .9;
+  margin-top: 3vh;
+}
+.thank-you {
+  text-align: center;
+  font-size: 2rem;
+  width: 50%;
+  color: #D34759;
+  font-weight: 900;
+  padding: 15px;
+  border: 10px dotted #D34759;
+  margin-top: 25vh;
+  letter-spacing: 2px;
+  opacity: .7;
+  font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
+}
