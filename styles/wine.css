@@ -492,7 +492,7 @@ td, th {
 
 .profile-settings .container {
   margin-top: -15vh;
-  width: 70%;
+  width: 90%;
   margin-left: 8%;
   display: flex;
   flex-direction: row;
@@ -506,6 +506,11 @@ td, th {
   margin-top: 2vh;
 }
 .profile {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+.event-details {
   display: flex;
   flex-direction: column;
   flex: 1;
@@ -566,4 +571,86 @@ td, th {
     display: flex;
     border-radius: 10px;
     box-shadow: 0px 5px 10px rgba(34, 34, 34, .3);
+  }
+  .evaluate-title {
+    text-align: center;
+    font-size: 2rem;
+    color: #222;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 20vh;
+    opacity: .7;
+    font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
+  }
+  .user-testing li {
+      width: 60%;
+      text-align: left;
+      margin-top: 2px;
+      margin-left: 14%;
+      list-style-type: disc;
+      font-family: Avenir;
+      font-size: 1.2rem;
+      color: #333;
+      font-weight: 300;
+      opacity: .9;
+      margin-top: 3vh;
+  }
+  .user-testing img {
+    margin-left: 10%;
+    margin-top: 5vh;
+    width: 80%;
+    height: auto;
+  }
+  .results h3 {
+    text-align: left;
+    margin-left: 10%;
+    font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    color: #D34759;
+    font-weight: 900;
+    letter-spacing: 1x;
+    opacity: .8;
+    margin-top: 5vh;
+  }
+  .results li {
+    width: 80%;
+      text-align: left;
+      margin-top: 2px;
+      margin-left: 14%;
+      list-style-type: disc;
+      font-family: Avenir;
+      font-size: 1rem;
+      color: #333;
+      font-weight: 300;
+      opacity: .9;
+      margin-top: 3vh;
+  }
+  .interview-findings {
+    display: flex;
+    flex-direction: row;
+    margin-left: 8%;
+  }
+  .feedback-and-iterations h3 {
+    text-align: left;
+    margin-left: 10%;
+    font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    color: #323648;
+    font-weight: 400;
+    letter-spacing: 1x;
+    opacity: .8;
+    border-bottom: 5px dotted #D34759;
+    width: 20%;
+    margin-top: 4vh;
+  }
+  .feedback-and-iterations img {
+    width: 70%;
+    margin-left: 10%;
+    margin-top: 4vh;
+  }
+  .sort-events-by-price {
+    width: 100%;
+    margin-left: 10%;
+    margin-top: 4vh;
   }
