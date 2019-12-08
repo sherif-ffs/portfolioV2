@@ -23,15 +23,13 @@
     /* margin-left: 10%; */
     font-family: Lato, Avenir;
     font-size: 1.1rem;
-    color: #333;
+    color: #222;
     font-weight: 100;
-    display: inline-block;
-    opacity: .6;
+    /* display: inline-block; */
+    opacity: .7;
 }
 .pre-footer a:hover {
     opacity:1;
-    /* padding-left: 2px;
-    padding-right: 2px; */
     -webkit-transform: scale(1.05);
     transform: scale(1.05);
     transition: .2s;

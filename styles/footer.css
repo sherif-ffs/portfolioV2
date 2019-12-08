@@ -1,0 +1,85 @@
+.footer {
+    width: 100%;
+    height: 100px;
+    margin-top: 10vh;
+    line-height: 100px;
+}
+.footer-item-container {
+    width: 40%;
+    margin-left: 30%;
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+}
+.footer-item {
+    display: flex;
+    flex: 1;
+    padding: 5px;
+    /* margin-top: 15vh; */
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fafafa;
+    font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    background-color: #D34759;
+    width: 20%;
+    height: 45px;
+    line-height: 45px;
+    margin-left: 5%;
+    /* box-shadow: 0px 5px 1px rgb(122, 31, 43); */
+}
+.footer-item a {
+    text-align: center;
+}
+.footer-item i {
+    line-height: 45px;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.github {
+    background: #333;
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, .9);
+}
+.github:hover {
+    transition: .2s;
+    opacity: .99;
+    box-shadow: 0px 4px 3px rgba(0, 0, 0, .7);
+}
+.dribble {
+    background: #ea4c89;
+    box-shadow: 0px 3px 1px rgba(131, 35, 72, 0.9);
+}
+.dribble:hover {
+    transition: .2s;
+    opacity: .99;
+    box-shadow: 0px 4px 3px rgba(131, 35, 72, 0.7);
+}
+.linkedin {
+    background: #0077B5;
+    box-shadow: 0px 3px 1px rgba(6, 71, 105, 0.9);
+}
+.linkedin:hover {
+    transition: .2s;
+    opacity: .99;
+    box-shadow: 0px 4px 3px rgba(6, 71, 105, 0.7);
+}
+
+@media screen and (max-width: 600px) {
+    .footer {
+        float: left;
+        margin-top: 80vh;
+    }
+    .footer-item-container {
+        width: 100%;
+        margin-left: 0%;
+        display: flex;
+        text-align: center;
+        flex-direction: column;
+    }
+    .footer-item {
+        width: 80%!important;
+        margin-left: 2%;
+        margin-top: 20px;
+    }
+}
