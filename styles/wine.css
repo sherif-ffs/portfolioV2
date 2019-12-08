@@ -78,11 +78,11 @@ html, body {
 }
 .problem {
     display: flex;
-    /* border: 1px solid red; */
     flex-direction: row;
     height: auto;
     flex-basis: 100%;
-    margin-top: 8vh;
+    margin-top: 3vh;
+    margin-top: -10vh;
 }
 .problem h1 {
   text-align: left;
