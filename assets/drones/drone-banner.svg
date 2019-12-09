@@ -69,7 +69,7 @@
       <stop offset="1" stop-color="#59595c"/>
     </linearGradient>
     <linearGradient id="linear-gradient-7" y1="-0.106" y2="1.129" xlink:href="#linear-gradient-6"/>
-    <filter id="The_Drone_Program" x="190.5" y="418.5" width="840" height="126" filterUnits="userSpaceOnUse">
+    <filter id="The_Drone_Program" x="138.5" y="418.5" width="840" height="126" filterUnits="userSpaceOnUse">
       <feOffset dy="1" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="0.5" result="blur"/>
       <feFlood flood-color="#222" flood-opacity="0.8"/>
@@ -119,10 +119,10 @@
       </g>
     </g>
     <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#The_Drone_Program)">
-      <text id="The_Drone_Program-2" data-name="The Drone Program" transform="translate(192 509)" fill="#ce2d4f" font-size="90" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="0" y="0">The Drone Program</tspan></text>
+      <text id="The_Drone_Program-2" data-name="The Drone Program" transform="translate(140 509)" fill="#ce2d4f" font-size="90" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="0" y="0">The Drone Program</tspan></text>
     </g>
-    <text id="Historical_data_about_every_reported_covert_united_states_drone_strike_" data-name="Historical data about every reported covert united states drone strike
+    <text id="Web_application_to_visualize_every_reported_covert_united_states_drone_strike_" data-name="Web application to visualize every reported covert united states drone strike
 
-" transform="translate(192 562)" fill="#fff" font-size="30" font-family="Avenir-Light, Avenir" font-weight="300"><tspan x="0" y="0">Historical data about every reported covert united states drone strike</tspan><tspan x="0" y="41"></tspan><tspan x="0" y="82"></tspan></text>
+" transform="translate(140 562)" fill="#fff" font-size="30" font-family="Avenir-Light, Avenir" font-weight="300"><tspan x="0" y="0">Web application to visualize every reported covert united states drone strike</tspan><tspan x="0" y="41"></tspan><tspan x="0" y="82"></tspan></text>
   </g>
 </svg>
