@@ -110,6 +110,9 @@ a{
 .projectImageWrapper .drone {
     background-image: url(../assets/drones/dronesThumbnail.svg);
 }
+.projectImageWrapper .darwish {
+    background-image: url(../assets/darwishThumbnail.svg);
+}
 /* .project img {
     width: 100%;
     border-top-left-radius: 25px;
@@ -134,9 +137,10 @@ a{
     opacity: .4;
 }
 .project-p {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     text-align: left;
     font-weight: 100;
+    width: 80%;
     font-family: Avenir;
     color: #222;    
     margin-top: -2%;

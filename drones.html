@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="../styles/nav-bar.css">
-    <link rel="stylesheet" href="../styles/wine.css">
+    <!-- <link rel="stylesheet" href="../styles/wine.css"> -->
+    <link rel="stylesheet" href="styles/drones.css">
     <link rel="stylesheet" href="../styles/wine-mobile.css">
     <link rel="stylesheet" href="../styles/pre-footer.css">
     <link rel="stylesheet" href="../styles/footer.css">
@@ -31,29 +32,110 @@
     <!-- end of nav-bar -->
     <div class="banner">
         <img src="assets/drones/drone-banner.svg" alt="">
-        <img src="assets/drones/" alt="">
     </div>
     <div class="container">
-            <div class="sidebar">
+            <!-- <div class="sidebar">
                 <ul class="sidebar-list">
                     <li class="sidebar-item"><a href="#overview" class="sidebar-item-link">Overview</a></li>
-                    <li class="sidebar-item"><a href="#research" class="sidebar-item-link">Research</a></li>
+                    <li class="sidebar-item"><a href="#features" class="sidebar-item-link">Features</a></li>
                     <li class="sidebar-item"><a href="#design" class="sidebar-item-link">Design</a></li>
                     <li class="sidebar-item"><a href="#evaluate" class="sidebar-item-link">Evaluate & Iterate</a></li>
                     <li class="sidebar-item"><a href="#prototype" class="sidebar-item-link">Latest Prototype</a></li>
                     <li class="sidebar-item"><a href="#future" class="sidebar-item-link">Future Steps</a></li>
                   </ul>
-            </div>
+            </div> -->
             <div class="content-wrapper">
                 <section id="overview">
-                    <h1 class="overview-title">Overview</h1>
-                    <div class="project-description section">
-                        <div class="img-container"></div>
-                        <!-- <h1>Project Description</h1> -->
-                        <p>It’s a project I had been wanting to create for a while, as someone interested in foreign policy and data visualization, and considering just how little we hear about our drone strikes, it seemed like a good choice for a personal project.
-                        </p>
+                    <div class="intro section">
+                        <div class="img-container">
+                            <img src="assets/drones/droneColor.svg" alt="">
+                        </div>
+                        <a href="https://drone-warfare.herokuapp.com/index.html" target="_blank" class="visit-site">Visit Website</a>
+                    </div>
+                    <div class="description section">
+                        <div class="brief">
+                            <p>The Drone Program is a single page application I made to help people visualize the scale and effects of the United States drone policy. As someone interested in foreign policy and data visualization it seemed like a good choice for a personal project. 
+                                </p>
+                                <p>I converted excel spreadsheets containing data on all dronestrikes in Yemen, Afghanistan, Somalia and Pakistan to populate to JSON files to populate the website.</p>
+                                <p>I then used the JavaScript library charts.js to turn the data into dynamic and responsive charts.</p>
+                        </div>
+                        <div class="involvement">
+                                <div class="my-role-group my-role">
+                                    <h3>My Role</h3>
+                                    <p>Designer and Developer</p>
+                                </div>
+                                <div class="my-role-group my-role">
+                                    <h3>Timeline</h3>
+                                    <p>October 2019 - November 2019</p>
+                                </div>
+                                <div class="my-role-group my-role">
+                                    <h3>Tools</h3>
+                                    <p>HTML, CSS, JavaScript, Charts.js</p>
+                                </div>
+                            </div>                    
+                    </div>
+                </section>
+                <section id="features" class="section">
+                    <div class="recommend-events feature">
+                        <div class="recommend-features-description feature-description">
+                            <h1>Overall Statisics</h1>
+                            <p>Quickly view the total number of strikes, casualties</p>
+                        </div>
+                        <img src="assets/drones/overallStatisics.png" alt="" class="recommend-event-gif gif">
+                    </div>
+                    <div class="recommend-events feature">
+                        <div class="recommend-features-description feature-description">
+                            <h1>Visualize Data</h1>
+                            <p>Visualize number of strikes, casualties, and injuries per year.</p>
+                        </div>
+                        <img src="assets/drones/visualizeData.png" alt="" class="recommend-event-gif gif">
+                    </div>
+                    <div class="recommend-events feature">
+                        <div class="recommend-features-description feature-description">
+                            <h1>Raw data</h1>
+                            <p>View the targeted provinces, type of strike, casualties, and date</p>
+                        </div>
+                        <img src="assets/drones/tableData.png" alt="" class="recommend-event-gif gif">
+                    </div>
+                    <div class="recommend-events feature">
+                        <div class="recommend-features-description feature-description">
+                            <h1>Effects</h1>
+                            <p>Some neat effects that took me far too long to make</p>
+                        </div>
+                        <img src="assets/drones/interactions.gif" alt="" class="recommend-event-gif gif interactions">
                     </div>
                 </section>
             </div>
+        </div>
+        <h1 class="thank-you">Thank you for taking the time to view my project :)</h1>
+        <!-- pre-footer start -->
+ <div class="pre-footer">
+        <ul>
+            <li><a href="">All</a></li>
+            <li><a href="" class="buffer">/</a></li>
+            <li><a href="">WineApp</a></li>
+            <li><a href="" class="buffer">/</a></li>
+            <li><a href="">The Drone Program</a></li>
+            <li><a href="" class="buffer">/</a></li>
+            <li><a href="">Darwish Studios</a></li>
+            <li><a href="" class="buffer">/</a></li>
+            <li><a href="">Quentin Tarantino</a></li>
+            <li><a href="" class="buffer">/</a></li>
+            <li><a href="">NJIT Redesign</a></li>
+            <li><a href="" class="buffer">/</a></li>
+            <li><a href="">UI Designs</a></li>
+        </ul>
+    </div>
+    <!-- pre-footer end -->
+    <!-- footer start-->    
+    <footer class="footer">
+        <div class="footer-item-container">
+            <a href="#" class="footer-item github"><i class="fa fa-github fa-2x"></i>Github</a>
+            <a href="#" class="footer-item dribble"><i class="fa fa-dribbble fa-2x"></i>Dribble</a>
+            <a href="#" class="footer-item linkedin"><i class="fa fa-linkedin fa-2x"></i>LinkedIn</a>
+        </div>
+        <p>Designed and coded with <span class="footer-emoji">☕</span> and <span class="footer-emoji">🎵</span></p>    
+            
+    </footer>
 </body>
 </html>
