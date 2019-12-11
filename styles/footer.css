@@ -5,8 +5,8 @@
     line-height: 100px;
 }
 .footer-item-container {
-    width: 40%;
-    margin-left: 30%;
+    width: 55%;
+    margin-left: 22.5%;
     display: flex;
     text-align: center;
     flex-direction: row;
@@ -43,7 +43,7 @@
 }
 .github:hover {
     transition: .2s;
-    opacity: .99;
+    opacity: .9;
     box-shadow: 0px 4px 3px rgba(0, 0, 0, .7);
 }
 .dribble {
@@ -52,7 +52,7 @@
 }
 .dribble:hover {
     transition: .2s;
-    opacity: .99;
+    opacity: .9;
     box-shadow: 0px 4px 3px rgba(131, 35, 72, 0.7);
 }
 .linkedin {
@@ -61,8 +61,17 @@
 }
 .linkedin:hover {
     transition: .2s;
-    opacity: .99;
+    opacity: .9;
     box-shadow: 0px 4px 3px rgba(6, 71, 105, 0.7);
+}
+.codepen {
+    background: #1e1f27;
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, .9);
+}
+.codepen:hover {
+    background: #1e1f27;
+    opacity: .9;
+    box-shadow: 0px 4px 3px rgba(0, 0, 0, .7);
 }
 footer p {
     text-align: center;
