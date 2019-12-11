@@ -73,7 +73,7 @@ html, body {
   margin-top: 8vh;
 }
 .img-container {
-  width: 20%!important;
+  width: 15%!important;
   margin: auto;
 }
 .img-container img {
@@ -88,6 +88,14 @@ html, body {
   font-family: Lato, Avenir;
   font-weight: 600;
   padding-top: 5vh;
+}
+.visit-github {
+  font-size: 1.3rem;
+  color: #222;
+  margin-top: -3vh;
+  font-weight: 200;
+  text-decoration: underline;
+  text-transform: lowercase;
 }
 .intro {
   display: flex;

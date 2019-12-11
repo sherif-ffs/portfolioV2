@@ -70,7 +70,7 @@ html, body {
 }
 
 .section {
-  margin-top: 8vh;
+  margin-top: 15vh;
 }
 .img-container {
   margin: auto;
@@ -91,6 +91,14 @@ html, body {
   font-weight: 600;
   padding-top: 5vh;
 }
+.visit-github {
+  font-size: 1.3rem;
+  color: #222;
+  margin-top: -3vh;
+  font-weight: 200;
+  text-decoration: underline;
+  text-transform: lowercase;
+}
 .intro {
   display: flex;
   flex-direction: column;
@@ -98,7 +106,7 @@ html, body {
 }
 .section h1 {
   text-align: left;
-  margin-left: 10%;
+  margin-left: 14%;
   font-family: Avenir, Arial, Helvetica, sans-serif;
   font-size: 1.5rem;
   color: #323648;
@@ -335,6 +343,26 @@ html, body {
   letter-spacing: 2px;
   opacity: .7;
   font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
+}
+.requirements {
+  margin-top: 25vh;
+}
+.requirements ul {
+  width: 75%;
+  text-align: left;
+  margin-top: 10px;
+  margin-left: 14%;
+  font-family: Avenir;
+  font-size: 1.3rem;
+  color: #333;
+  font-weight: 300;
+  opacity: .9;
+  margin-top: 3vh;
+}
+.requirements li {
+  margin-top: 2vh;
+  margin-left: 2%;
+  list-style-type: decimal!important;
 }
 @media screen and (max-width: 600px) {
   body {
