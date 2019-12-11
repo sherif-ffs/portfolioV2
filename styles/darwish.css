@@ -85,7 +85,8 @@ html, body {
 .visit-site {
   text-align: center;
   font-size: 2rem;
-  color: #6320EE;
+  color: #727aff;
+  text-decoration: none;
   font-family: Lato, Avenir;
   font-weight: 600;
   padding-top: 5vh;
@@ -160,7 +161,7 @@ html, body {
 .photography {
   display: flex;
   border-top: 2px solid #ccc;
-  padding-top: 30px;
+  padding-top: 75px;
   width: 85%;
   margin-left: 7%;
   height: 600px;
@@ -198,7 +199,7 @@ html, body {
   font-size: 1.5rem;
   color: #333;
   border-bottom: 2px solid #ccc;
-  padding-bottom: 50px;
+  padding-bottom: 75px;
   font-weight: 500;
   opacity: .9;
   margin-top: 10vh;
@@ -210,18 +211,19 @@ html, body {
   width: 90%;
   margin-left: 5%;
   border-top: 2px solid #ccc;
-  padding-top: 50px;  
+  padding-top: 75px;  
   border-bottom: 2px solid #ccc;
-  padding-bottom: 50px;
+  padding-bottom: 75px;
 }
 .solution-paragraph {
   display: flex;
+  flex-direction: column;
   flex: 1;
 }
 .solution-paragraph p {
   font-family: Avenir;
-  width: 75%;
-  font-size: 1.5rem;
+  width: 70%;
+  font-size: 1.3rem;
   color: #333;
   font-weight: 500;
   opacity: .9;
@@ -246,9 +248,9 @@ html, body {
   width: 90%;
   margin-left: 5%;
   border-top: 2px solid #ccc;
-  padding-top: 50px;  
+  padding-top: 75px;  
   border-bottom: 2px solid #ccc;
-  padding-bottom: 50px;
+  padding-bottom: 75px;
 }
 .responsive-paragraph {
   display: flex;
@@ -259,7 +261,7 @@ html, body {
   width: 75%;
   margin: auto;
   margin-left: 25%;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   color: #333;
   font-weight: 500;
   opacity: .9;
@@ -275,5 +277,63 @@ html, body {
   margin-left: 25%;
   height: auto;
   box-shadow: 1px 2px 4px rgba(0, 0, 0,.4);
-  box-shadow: -1px -2px 4px rgba(0, 0, 0,.4)
+  /* box-shadow: -1px -2px 4px rgba(0, 0, 0,.4) */
+}
+.services {
+  margin-top: 20vh;
+  display: flex;
+  flex-direction: row;
+  width: 90%;
+  margin-left: 5%;
+  border-top: 2px solid #ccc;
+  padding-top: 50px;  
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 50px;
+}
+.services-paragraph {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+.services-paragraph p {
+  font-family: Avenir;
+  width: 75%;
+  margin: auto;
+  /* border: 1px solid red; */
+  margin-right: 25%;
+  font-size: 1.3rem;
+  color: #333;
+  font-weight: 500;
+  opacity: .9;
+}
+.services-paragraph p:nth-child(2) {
+  margin-top: -2vh;
+
+}
+.services-gif-container {
+  display: flex;
+  flex: 1;
+  height: 350px;
+}
+.services-darwish-gif {
+  border-radius: 2px;
+  width: 80%;
+  margin-left: 5%;
+  height: auto;
+  box-shadow: 1px 2px 4px rgba(0, 0, 0,.4);
+  /* box-shadow: -1px -2px 4px rgba(0, 0, 0,.4) */
+}
+.thank-you {
+  text-align: center;
+  font-size: 2rem;
+  width: 50%;
+  margin-left: 25%;
+  color: #727aff;
+  font-weight: 900;
+  padding: 15px;
+  border: 10px dashed #727aff;
+  margin-top: 25vh;
+  letter-spacing: 2px;
+  opacity: .7;
+  font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
 }
