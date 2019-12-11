@@ -308,7 +308,6 @@ html, body {
 }
 .services-paragraph p:nth-child(2) {
   margin-top: -2vh;
-
 }
 .services-gif-container {
   display: flex;
@@ -336,4 +335,90 @@ html, body {
   letter-spacing: 2px;
   opacity: .7;
   font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
+}
+@media screen and (max-width: 600px) {
+  body {
+    overflow-x: hidden;
+  }
+  .description {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  .photos-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  .right {
+    margin-top: 5vh;
+  }
+  .solution-paragraph {
+    font-size: 20px!important;
+    width: 95%!important;
+    margin-left: 0%;
+  }
+  .photography-p {
+    width: 80%;
+  }
+  .darwish-gif {
+    width: 100%;
+    margin-left: 0%;
+    margin-top: 5vh;
+  }
+  .responsive-darwish-gif {
+    width: 60%;
+    margin-top: 5vh;
+  }
+  .services-darwish-gif {
+    width: 100%;
+    margin-left: 0%;
+    margin-bottom: 5vh;
+  }
+  .services-paragraph p  {
+    margin-bottom: 2vh;;
+    width: 100%;
+  }
+  .services-paragraph p:nth-child(2) {
+    margin-top: 2vh;
+  }
+  .thank-you {
+    width: 90%;
+    margin-left: 5%;
+    font-size: 22px;
+    border: 2px dashed;
+  }
+  .solution {
+    margin-top: 30vh;
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin-left: 5%;
+    border-top: 2px solid #ccc;
+    padding-top: 75px;  
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 75px;
+  }
+  .responsive {
+    margin-top: 20vh;
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin-left: 5%;
+    border-top: 2px solid #ccc;
+    padding-top: 75px;  
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 75px;
+  }
+  .services {
+    margin-top: 20vh;
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin-left: 5%;
+    border-top: 2px solid #ccc;
+    padding-top: 50px;  
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 50px;
+  }
 }

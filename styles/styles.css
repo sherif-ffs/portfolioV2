@@ -113,6 +113,9 @@ a{
 .projectImageWrapper .darwish {
     background-image: url(../assets/darwish/darwishThumbnail.png.svg);
 }
+.projectImageWrapper .quentin {
+    background-image: url(../assets/tarantino/quentinThumbnail.png.svg);
+}
 /* .project img {
     width: 100%;
     border-top-left-radius: 25px;
