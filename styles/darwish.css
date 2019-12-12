@@ -94,6 +94,7 @@ html, body {
 .visit-github {
   font-size: 1.3rem;
   color: #222;
+  margin-top: 1vh;
   padding: 0;
   font-weight: 200;
   text-decoration: underline;
@@ -341,7 +342,7 @@ html, body {
   border: 10px dashed #727aff;
   margin-top: 25vh;
   letter-spacing: 2px;
-  opacity: .7;
+  opacity: 1;
   font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
 }
 .requirements {

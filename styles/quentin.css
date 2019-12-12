@@ -79,7 +79,7 @@ html, body {
   height: auto;
   width: 25%;
   margin-left: 37.5%;
-  box-shadow: 0px 4px 5px rgba(99, 32, 238,.2);
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 1);
   border-radius: 360px;
 }
 .visit-site {
@@ -94,7 +94,7 @@ html, body {
 .visit-github {
   font-size: 1.3rem;
   color: #222;
-  /* margin-top: -3vh; */
+  margin-top: 1vh;
   padding: 0;
   font-weight: 200;
   text-decoration: underline;
@@ -126,13 +126,14 @@ html, body {
   color: #333;
   font-weight: 300;
   opacity: .9;
-  margin-top: 1vh;
+  margin-top: 2vh;
 }
 .resume img {
-    width: 85%;
-    border-radius: 5px;
+    width: 80%;
+    border-radius: 10px;
+    margin-top: 2vh;
     margin-left: 10%;
-    box-shadow: 0px 6px 5px rgba(0, 0, 0, .4);
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, .6);
 }
 .section p a {
   color: #9b3624;
@@ -178,3 +179,44 @@ html, body {
   font-weight: 300;
   opacity: .7;
 }
+.posters {
+    display: flex;
+    margin-top: 25vh;
+    flex-direction: row;
+    width: 80%;
+    margin-left: 10%;
+}
+.posters-container {
+    /* margin: auto; */
+    margin-top: 5%!important;
+
+}
+.posters-container p {
+    margin: auto!important; 
+    width: 80%;
+    margin-top: 2vh;
+    /* margin-top: 20%!important; */
+}
+.poster-gif-container {
+    /* margin-right: 10%; */
+}
+.poster-gif-container img {
+    /* width: 110%; */
+    height: 100%;
+    border-radius: 5px;
+    box-shadow: 1px 4px 15px rgba(0, 0, 0, .3);
+}
+.thank-you {
+    text-align: center;
+    font-size: 2rem;
+    width: 50%;
+    margin-left: 25%;
+    color: #181411;
+    font-weight: 900;
+    padding: 15px;
+    border: 10px dashed #181411;
+    margin-top: 25vh;
+    letter-spacing: 2px;
+    opacity: 1;
+    font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
+  }
