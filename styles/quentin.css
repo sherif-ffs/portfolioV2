@@ -100,6 +100,14 @@ html, body {
   text-decoration: underline;
   text-transform: lowercase;
 }
+.display-pages {
+  width: 100%;
+  margin-top: 25vh;
+}
+.display-pages-img {
+  width: 85%;
+  margin-left: 7.5%;
+}
 .intro {
   display: flex;
   flex-direction: column;
@@ -198,13 +206,12 @@ html, body {
     /* margin-top: 20%!important; */
 }
 .poster-gif-container {
-    /* margin-right: 10%; */
+    margin-right: 2%;
 }
 .poster-gif-container img {
-    /* width: 110%; */
     height: 100%;
     border-radius: 5px;
-    box-shadow: 1px 4px 15px rgba(0, 0, 0, .3);
+    box-shadow: 1px 4px 15px rgba(0, 0, 0, .6);
 }
 .thank-you {
     text-align: center;
