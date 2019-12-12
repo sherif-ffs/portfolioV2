@@ -227,3 +227,34 @@ html, body {
     opacity: 1;
     font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
   }
+
+  @media screen and (max-width: 600px) {
+    .banner{ 
+      background-color: #9b3624;
+      height: 300px;
+    }
+    .description {
+      flex-direction: column;
+    }
+    .description p {
+      width: 95%;
+    }
+    .display-pages img {
+      width: 100%;
+      margin-left: 0px;
+    }
+    .posters {
+      flex-direction: column;
+      margin-top: 5vh;
+    }
+    .poster-gif-container img {
+      width: 100%;
+      margin-top: 5vh;
+    }
+    .thank-you {
+      width: 80%;
+      margin-left: 5%;
+      font-size: 22px;
+      border: 2px dashed;
+    }
+  }
