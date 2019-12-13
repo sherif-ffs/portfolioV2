@@ -67,14 +67,18 @@
     opacity: 1;
     color: #323648;
     text-decoration: none;
+    display: inline-block;
     font-family: 'Lato', Avenir, proxima-nova, sans-serif;
     transition: .2s;
     transition-timing-function: ease-in-out;
     border-bottom: 0px solid #222; }
 
   .nav-item:hover {
-    scale: 1.1;
-    text-decoration: underline;
+    -webkit-transform: scale(1.10)!important;
+    font-weight: 500;
+    transform: scale(1.10)!important;
+    transition: .2s;
+    /* text-decoration: underline; */
   }
   .menu-toggle {
     color: #222;
