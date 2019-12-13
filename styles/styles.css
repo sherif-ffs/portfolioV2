@@ -116,6 +116,12 @@ a{
 .projectImageWrapper .quentin {
     background-image: url(../assets/tarantino/quentinThumbnail.png.svg);
 }
+.projectImageWrapper .njit {
+    background-image: url(../assets/njit/njitThumbnail.png.svg)
+}
+.projectImageWrapper .ui-designs {
+    background-image: url(../assets/ui-designs/ui-designs-thumbnail.svg)
+}
 /* .project img {
     width: 100%;
     border-top-left-radius: 25px;

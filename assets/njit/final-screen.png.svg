@@ -1,0 +1,237 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1834" height="1080" viewBox="0 0 1834 1080">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 200 59">
+      <image width="200" height="59" xlink:href="data:image/png;base64,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"/>
+    </pattern>
+    <filter id="Path_6" x="241" y="4" width="1688" height="136" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#222" flood-opacity="0.584"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_6" x="293" y="163" width="453" height="625" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#222" flood-opacity="0.514"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_7" x="293" y="814" width="453" height="242" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-color="#222" flood-opacity="0.514"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="15" height="9.167" transform="translate(250 12)" fill="#900" opacity="0.35"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="10.944" height="6.688" transform="translate(250 12)" fill="#900" opacity="0.35"/>
+    </clipPath>
+    <filter id="Rectangle_12" x="808" y="163" width="453" height="221" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-color="#222" flood-opacity="0.514"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_13" x="808" y="391" width="453" height="273" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-color="#222" flood-opacity="0.514"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_14" x="808" y="677" width="453" height="379" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-color="#222" flood-opacity="0.514"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_15" x="840.5" y="601" width="184" height="37.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-7"/>
+      <feFlood flood-opacity="0.514"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_16" x="1323" y="163" width="453" height="893" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-color="#222" flood-opacity="0.514"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_17" x="416" y="52" width="267" height="47" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-9"/>
+      <feFlood flood-color="#222" flood-opacity="0.749"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-3">
+      <path id="Path_11" data-name="Path 11" d="M0,0H28.389V18.156H0Z" transform="translate(250 12)" fill="#900" opacity="0.153"/>
+    </clipPath>
+    <clipPath id="clip-final-screen">
+      <rect width="1834" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="final-screen" clip-path="url(#clip-final-screen)">
+    <rect width="1834" height="1080" fill="#fff"/>
+    <path id="Path_3" data-name="Path 3" d="M0,0H250V31.949H0Z" transform="translate(0 320.051)" fill="#690303"/>
+    <path id="Path_1" data-name="Path 1" d="M0,0H250V1080H0Z" fill="#900"/>
+    <text id="My_Pipeline" data-name="My Pipeline" transform="translate(22 216)" fill="#f5f5f5" font-size="20" font-family="Avenir-Heavy, Avenir" font-weight="800"><tspan x="0" y="0">My Pipeline</tspan></text>
+    <text id="Tutorial" transform="translate(22 278)" fill="#f5f5f5" font-size="20" font-family="Avenir-Heavy, Avenir" font-weight="800"><tspan x="0" y="0">Tutorial</tspan></text>
+    <text id="Student_Government" data-name="Student Government" transform="translate(22 402)" fill="#f5f5f5" font-size="20" font-family="Avenir-Heavy, Avenir" font-weight="800"><tspan x="0" y="0">Student Government</tspan></text>
+    <text id="Admitted_Students" data-name="Admitted Students" transform="translate(22 464)" fill="#f5f5f5" font-size="20" font-family="Avenir-Heavy, Avenir" font-weight="800"><tspan x="0" y="0">Admitted Students</tspan></text>
+    <rect id="Image_1" data-name="Image 1" width="207" height="61" transform="translate(22 69)" fill="url(#pattern)"/>
+    <path id="Path_2" data-name="Path 2" d="M0,0H1698.315V13.512H0Z" transform="translate(221.685)" fill="#900"/>
+    <path id="Path_4" data-name="Path 4" d="M0,0H250V63.7H0Z" transform="translate(0 303.066)" fill="#6f0101" opacity="0.552"/>
+    <text id="Student_Services" data-name="Student Services" transform="translate(22 341)" fill="#f5f5f5" font-size="20" font-family="Avenir-Heavy, Avenir" font-weight="800"><tspan x="0" y="0">Student Services</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_6)">
+      <path id="Path_6-2" data-name="Path 6" d="M0,0H1670V118H0Z" transform="translate(250 12)" fill="#fff" opacity="0.997"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_6)">
+      <rect id="Rectangle_6-2" data-name="Rectangle 6" width="435" height="607" rx="3" transform="translate(302 171)" fill="#fff"/>
+    </g>
+    <text id="Academic_Profile" data-name="Academic Profile" transform="translate(328 230)" fill="#161925" font-size="28" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="0" y="0">Academic Profile</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_7)">
+      <rect id="Rectangle_7-2" data-name="Rectangle 7" width="435" height="224" rx="3" transform="translate(302 822)" fill="#fff"/>
+    </g>
+    <text id="My_Mail" data-name="My Mail" transform="translate(930 80)" fill="#900" font-size="22" font-family="ProximaNova-Semibold, Proxima Nova" font-weight="600"><tspan x="0" y="0">My Mail</tspan></text>
+    <text id="My_Calendar" data-name="My Calendar" transform="translate(1091 80)" fill="#900" font-size="22" font-family="ProximaNova-Semibold, Proxima Nova" font-weight="600"><tspan x="0" y="0">My Calendar</tspan></text>
+    <text id="Sherif_Elmetwally" data-name="Sherif Elmetwally" transform="translate(1307 80)" fill="#900" font-size="22" font-family="ProximaNova-Semibold, Proxima Nova" font-weight="600"><tspan x="0" y="0">Sherif Elmetwally</tspan></text>
+    <text id="Sign_Out" data-name="Sign Out" transform="translate(1574 80)" fill="#900" font-size="22" font-family="ProximaNova-Semibold, Proxima Nova" font-weight="600"><tspan x="0" y="0">Sign Out</tspan></text>
+    <g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(1230 57)" clip-path="url(#clip-path)">
+      <path id="caret-down-solid" d="M64.447,1078.472H77.331a1,1,0,0,1,.706,1.707l-6.439,6.444a1,1,0,0,1-1.417,0l-6.439-6.444A1,1,0,0,1,64.447,1078.472Z" transform="translate(186.554 -1065.934)" fill="#900"/>
+    </g>
+    <text id="Semester:" transform="translate(328 280)" fill="#161925" font-size="18" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">Semester:</tspan></text>
+    <text id="Fall_2019" data-name="Fall 2019" transform="translate(485 280)" fill="#161925" font-size="17" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Fall 2019</tspan></text>
+    <text id="Class_Standing:" data-name="Class Standing:" transform="translate(328 316)" fill="#161925" font-size="18" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">Class Standing:</tspan></text>
+    <text id="Junior_56-81_" data-name="Junior(56-81)" transform="translate(485 318)" fill="#161925" font-size="17" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Junior(56-81)</tspan></text>
+    <text id="Degree:" transform="translate(328 352)" fill="#161925" font-size="18" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">Degree:</tspan></text>
+    <text id="Bachelor_of_Science" data-name="Bachelor of Science" transform="translate(485 354)" fill="#161925" font-size="17" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Bachelor of Science</tspan></text>
+    <text id="Level:" transform="translate(328 388)" fill="#161925" font-size="18" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">Level:</tspan></text>
+    <text id="Undergraduate" transform="translate(485 390)" fill="#161925" font-size="17" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Undergraduate</tspan></text>
+    <text id="Program:" transform="translate(328 424)" fill="#161925" font-size="18" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">Program:</tspan></text>
+    <text id="Human_Computer_Interaction" data-name="Human Computer Interaction" transform="translate(485 426)" fill="#161925" font-size="17" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Human Computer Interaction</tspan></text>
+    <text id="Admit_Term:" data-name="Admit Term:" transform="translate(328 460)" fill="#161925" font-size="18" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">Admit Term:</tspan></text>
+    <text id="Fall_2017" data-name="Fall 2017" transform="translate(485 462)" fill="#161925" font-size="17" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Fall 2017</tspan></text>
+    <text id="College:" transform="translate(328 496)" fill="#161925" font-size="18" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">College:</tspan></text>
+    <text id="Ying_Wu_College_of_Computing" data-name="Ying Wu College of Computing" transform="translate(485 498)" fill="#161925" font-size="17" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Ying Wu College of Computing</tspan></text>
+    <text id="Campus:" transform="translate(328 532)" fill="#161925" font-size="18" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">Campus:</tspan></text>
+    <text id="Newark" transform="translate(485 534)" fill="#161925" font-size="17" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Newark</tspan></text>
+    <text id="Department:" transform="translate(328 568)" fill="#161925" font-size="18" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">Department:</tspan></text>
+    <text id="Information_Systems" data-name="Information Systems" transform="translate(485 570)" fill="#161925" font-size="17" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Information Systems</tspan></text>
+    <path id="Path_7" data-name="Path 7" d="M328,619.584H716.906" transform="translate(0 -33)" fill="none" stroke="#900" stroke-width="0.5" opacity="0.6"/>
+    <text id="Advisor:" transform="translate(328 615)" fill="#161925" font-size="18" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">Advisor:</tspan></text>
+    <text id="Jane_Doe" data-name="Jane Doe" transform="translate(485 615)" fill="#161925" font-size="16" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Jane Doe</tspan></text>
+    <path id="Path_8" data-name="Path 8" d="M328,619.584H716.906" transform="translate(0 12)" fill="none" stroke="#900" stroke-width="0.5" opacity="0.6"/>
+    <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(328 654)" fill="#fff" stroke="#900" stroke-width="3">
+      <rect width="265" height="44" stroke="none"/>
+      <rect x="1.5" y="1.5" width="262" height="41" fill="none"/>
+    </g>
+    <text id="Select_Another_Semester" data-name="Select Another Semester" transform="translate(371 681)" fill="#900" font-size="15" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">Select Another Semester</tspan></text>
+    <g id="Mask_Group_4" data-name="Mask Group 4" transform="translate(290 662.303)" clip-path="url(#clip-path-2)">
+      <path id="caret-down-solid-2" data-name="caret-down-solid" d="M64.176,1078.472h9.4a.729.729,0,0,1,.515,1.245l-4.7,4.7a.732.732,0,0,1-1.034,0l-4.7-4.7A.729.729,0,0,1,64.176,1078.472Z" transform="translate(186.554 -1066.079)" fill="#900"/>
+    </g>
+    <text id="Transcripts" transform="translate(328 732)" fill="#161925" font-size="18" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500" text-decoration="underline"><tspan x="0" y="0">Transcripts</tspan></text>
+    <text id="Holds" transform="translate(442 732)" fill="#161925" font-size="18" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500" text-decoration="underline"><tspan x="0" y="0">Holds</tspan></text>
+    <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(590 654)" fill="#900" stroke="#900" stroke-width="1">
+      <rect width="52" height="44" stroke="none"/>
+      <rect x="0.5" y="0.5" width="51" height="43" fill="none"/>
+    </g>
+    <text id="Go" transform="translate(601 683)" fill="#fff" font-size="23" font-family="ProximaNova-Semibold, Proxima Nova" font-weight="600"><tspan x="0" y="0">Go</tspan></text>
+    <text id="Personal_Information" data-name="Personal Information" transform="translate(328 877)" fill="#161925" font-size="28" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="0" y="0">Personal Information</tspan></text>
+    <text id="Update_Addresses_and_Phones" data-name="Update Addresses and Phones" transform="translate(328 921)" fill="#161925" font-size="20" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">Update Addresses and Phones</tspan></text>
+    <text id="Update_Email_Addresses" data-name="Update Email Addresses" transform="translate(328 961)" fill="#161925" font-size="20" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">Update Email Addresses</tspan></text>
+    <text id="Update_Emergency_Contacts" data-name="Update Emergency Contacts" transform="translate(328 1002)" fill="#161925" font-size="20" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">Update Emergency Contacts</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_12)">
+      <rect id="Rectangle_12-2" data-name="Rectangle 12" width="435" height="203" rx="3" transform="translate(817 171)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_13)">
+      <rect id="Rectangle_13-2" data-name="Rectangle 13" width="435" height="255" rx="3" transform="translate(817 399)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_14)">
+      <rect id="Rectangle_14-2" data-name="Rectangle 14" width="435" height="361" rx="3" transform="translate(817 685)" fill="#fff"/>
+    </g>
+    <text id="My_Account" data-name="My Account" transform="translate(841 230)" fill="#161925" font-size="28" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="0" y="0">My Account</tspan></text>
+    <text id="Fall_2019_Balance" data-name="Fall 2019 Balance" transform="translate(841 272)" fill="#161925" font-size="18" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">Fall 2019 Balance</tspan></text>
+    <text id="_1_000" data-name="$1,000" transform="translate(1055 272)" fill="#161925" font-size="18" font-family="ProximaNova-Semibold, Proxima Nova" font-weight="600"><tspan x="0" y="0">$1,000</tspan></text>
+    <text id="Spring_2019_Balance" data-name="Spring 2019 Balance" transform="translate(841 308)" fill="#161925" font-size="18" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">Spring 2019 Balance</tspan></text>
+    <text id="_1_000-2" data-name="$1,000" transform="translate(1055 308)" fill="#161925" font-size="18" font-family="ProximaNova-Semibold, Proxima Nova" font-weight="600"><tspan x="0" y="0">$1,000</tspan></text>
+    <path id="Path_9" data-name="Path 9" d="M328,619.584H716.906" transform="translate(513 -298)" fill="none" stroke="#900" stroke-width="0.5" opacity="0.6"/>
+    <text id="Account_Balance" data-name="Account Balance" transform="translate(841 351)" fill="#161925" font-size="18" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">Account Balance</tspan></text>
+    <text id="_4_000" data-name="$4,000" transform="translate(1055 351)" fill="#161925" font-size="18" font-family="ProximaNova-Semibold, Proxima Nova" font-weight="600"><tspan x="0" y="0">$4,000</tspan></text>
+    <text id="My_Statement" data-name="My Statement" transform="translate(841 440)" fill="#161925" font-size="28" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="0" y="0">My Statement</tspan></text>
+    <text id="Due_Date" data-name="Due Date" transform="translate(842 485)" fill="#161925" font-size="18" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">Due Date</tspan></text>
+    <text id="December_9th" data-name="December 9th" transform="translate(1056 485)" fill="#161925" font-size="18" font-family="ProximaNova-Semibold, Proxima Nova" font-weight="600"><tspan x="0" y="0">December 9th</tspan></text>
+    <text id="Amount_Due" data-name="Amount Due" transform="translate(842 521)" fill="#161925" font-size="18" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">Amount Due</tspan></text>
+    <text id="_1_000-3" data-name="$1,000" transform="translate(1056 521)" fill="#161925" font-size="18" font-family="ProximaNova-Semibold, Proxima Nova" font-weight="600"><tspan x="0" y="0">$1,000</tspan></text>
+    <path id="Path_10" data-name="Path 10" d="M328,619.584H716.906" transform="translate(514 -80)" fill="none" stroke="#900" stroke-width="0.5" opacity="0.6"/>
+    <text id="Account_Balance-2" data-name="Account Balance" transform="translate(842 575)" fill="#161925" font-size="18" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">Account Balance</tspan></text>
+    <text id="_4_000-2" data-name="$4,000" transform="translate(1056 575)" fill="#161925" font-size="18" font-family="ProximaNova-Semibold, Proxima Nova" font-weight="600"><tspan x="0" y="0">$4,000</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_15)">
+      <g id="Rectangle_15-2" data-name="Rectangle 15" transform="translate(842 601)" fill="#900" stroke="#900" stroke-width="4">
+        <rect width="181" height="34" rx="2" stroke="none"/>
+        <rect x="2" y="2" width="177" height="30" fill="none"/>
+      </g>
+    </g>
+    <text id="Make_Payment" data-name="Make Payment" transform="translate(881 623)" fill="#fff" font-size="15" font-family="Avenir-Heavy, Avenir" font-weight="800"><tspan x="0" y="0">Make Payment</tspan></text>
+    <text id="Student_Grades:_Fall_2019" data-name="Student Grades: Fall 2019" transform="translate(841 728)" fill="#161925" font-size="28" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="0" y="0">Student Grades: Fall 2019</tspan></text>
+    <text id="Advanced_Web_Development" data-name="Advanced Web Development" transform="translate(845 774)" fill="#161925" font-size="20" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">Advanced Web Development</tspan></text>
+    <text id="Programming_in_Java" data-name="Programming in Java" transform="translate(845 892)" fill="#161925" font-size="20" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">Programming in Java</tspan></text>
+    <text id="CRN:_12759" data-name="CRN: 12759" transform="translate(845 799)" fill="#161925" font-size="17" font-family="ProximaNova-Regular, Proxima Nova" opacity="0.85"><tspan x="0" y="0">CRN: 12759</tspan></text>
+    <text id="Subject:_Information_Systems" data-name="Subject: Information Systems" transform="translate(845 819)" fill="#161925" font-size="17" font-family="ProximaNova-Regular, Proxima Nova" opacity="0.85"><tspan x="0" y="0">Subject: Information Systems</tspan></text>
+    <text id="Course:_421" data-name="Course: 421" transform="translate(845 839)" fill="#161925" font-size="17" font-family="ProximaNova-Regular, Proxima Nova" opacity="0.85"><tspan x="0" y="0">Course: 421</tspan></text>
+    <text id="Final:_A" data-name="Final: A" transform="translate(845 857)" fill="#161925" font-size="17" font-family="ProximaNova-Regular, Proxima Nova" opacity="0.85"><tspan x="0" y="0">Final: A</tspan></text>
+    <text id="UI_UX_Design" data-name="UI/UX Design" transform="translate(845 933)" fill="#161925" font-size="20" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">UI/UX Design</tspan></text>
+    <text id="Mobile_Design_and_Development" data-name="Mobile Design and Development" transform="translate(845 974)" fill="#161925" font-size="20" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">Mobile Design and Development</tspan></text>
+    <text id="Modern_Dance" data-name="Modern Dance" transform="translate(845 1015)" fill="#161925" font-size="20" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">Modern Dance</tspan></text>
+    <path id="chevron-right-solid" d="M35.119,44.612l-5.744,5.744a.709.709,0,0,1-1,0l-.67-.67a.709.709,0,0,1,0-1l4.552-4.573L27.7,39.537a.709.709,0,0,1,0-1l.67-.67a.709.709,0,0,1,1,0l5.744,5.744A.709.709,0,0,1,35.119,44.612Z" transform="translate(1170.987 737.041) rotate(90)"/>
+    <path id="chevron-right-solid-2" data-name="chevron-right-solid" d="M35.119,44.612l-5.744,5.744a.709.709,0,0,1-1,0l-.67-.67a.709.709,0,0,1,0-1l4.552-4.573L27.7,39.537a.709.709,0,0,1,0-1l.67-.67a.709.709,0,0,1,1,0l5.744,5.744A.709.709,0,0,1,35.119,44.612Z" transform="translate(1024.466 842.341)"/>
+    <path id="chevron-right-solid-3" data-name="chevron-right-solid" d="M35.119,44.612l-5.744,5.744a.709.709,0,0,1-1,0l-.67-.67a.709.709,0,0,1,0-1l4.552-4.573L27.7,39.537a.709.709,0,0,1,0-1l.67-.67a.709.709,0,0,1,1,0l5.744,5.744A.709.709,0,0,1,35.119,44.612Z" transform="translate(956.466 883.341)"/>
+    <path id="chevron-right-solid-4" data-name="chevron-right-solid" d="M35.119,44.612l-5.744,5.744a.709.709,0,0,1-1,0l-.67-.67a.709.709,0,0,1,0-1l4.552-4.573L27.7,39.537a.709.709,0,0,1,0-1l.67-.67a.709.709,0,0,1,1,0l5.744,5.744A.709.709,0,0,1,35.119,44.612Z" transform="translate(1128.466 924.341)"/>
+    <path id="chevron-right-solid-5" data-name="chevron-right-solid" d="M35.119,44.612l-5.744,5.744a.709.709,0,0,1-1,0l-.67-.67a.709.709,0,0,1,0-1l4.552-4.573L27.7,39.537a.709.709,0,0,1,0-1l.67-.67a.709.709,0,0,1,1,0l5.744,5.744A.709.709,0,0,1,35.119,44.612Z" transform="translate(969.466 965.341)"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_16)">
+      <rect id="Rectangle_16-2" data-name="Rectangle 16" width="435" height="875" rx="3" transform="translate(1332 171)" fill="#fff"/>
+    </g>
+    <text id="Online_Resources" data-name="Online Resources" transform="translate(1362 230)" fill="#161925" font-size="28" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="0" y="0">Online Resources</tspan></text>
+    <g id="Group_1" data-name="Group 1" transform="translate(0 18)">
+      <text id="Course_Registration:" data-name="Course Registration:" transform="translate(1362 263)" fill="#161925" font-size="18" font-family="ProximaNova-Semibold, Proxima Nova" font-weight="600" text-decoration="underline"><tspan x="0" y="0">Course Registration:</tspan></text>
+      <text id="Enhanced_registration_" data-name="Enhanced registration  
+  " transform="translate(1535 248)" fill="#161925" font-size="17" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="16" xml:space="preserve">Enhanced registration  </tspan></text>
+      <text id="experience:_Prepare_for_and_view_pre-registration_requirements_give_yourself_a_head_start_by_building_registration_plans_and_browse_and_register_for_classes_quickly._Learn_More_" data-name="experience: Prepare for and view pre-registration requirements, give yourself a head start by building registration plans, and browse and register for classes quickly.  [ Learn More ]
+" transform="translate(1362 270)" fill="#161925" font-size="17" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="16">experience: Prepare for and view pre-registration </tspan><tspan x="0" y="41">requirements, give yourself a head start by </tspan><tspan x="0" y="66">building registration plans, and browse and </tspan><tspan x="0" y="91" xml:space="preserve">register for classes quickly.  </tspan><tspan y="91" fill="#900" font-family="ProximaNova-Semibold, Proxima Nova" font-weight="600">[ Learn More ]</tspan></text>
+    </g>
+    <text id="Full_access_to_employment_" data-name="Full access to employment," transform="translate(1509 418)" fill="#161925" font-size="17" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="16">Full access to employment,</tspan></text>
+    <g id="Group_2" data-name="Group 2" transform="translate(0 23)">
+      <text id="Student_Records:" data-name="Student Records:" transform="translate(1362 411)" fill="#161925" font-size="18" font-family="ProximaNova-Semibold, Proxima Nova" font-weight="600" text-decoration="underline"><tspan x="0" y="0">Student Records:</tspan></text>
+      <text id="Academic_financial_aid_and_student_account_records." data-name="Academic, financial aid, and student account records." transform="translate(1362 421)" fill="#161925" font-size="17" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="16">Academic, financial aid, and student account </tspan><tspan x="0" y="41">records.</tspan></text>
+    </g>
+    <text id="Student_Success_Collaborative_" data-name="Student Success Collaborative " transform="translate(1362 533)" fill="#161925" font-size="18" font-family="ProximaNova-Semibold, Proxima Nova" font-weight="600" text-decoration="underline"><tspan x="0" y="0" xml:space="preserve">Student Success Collaborative </tspan></text>
+    <text id="Parking_Services" data-name="Parking Services" transform="translate(1362 580)" fill="#161925" font-size="18" font-family="ProximaNova-Semibold, Proxima Nova" font-weight="600" text-decoration="underline"><tspan x="0" y="0">Parking Services</tspan></text>
+    <text id="On_Campus_Employment" data-name="On Campus Employment" transform="translate(1362 627)" fill="#161925" font-size="18" font-family="ProximaNova-Semibold, Proxima Nova" font-weight="600" text-decoration="underline"><tspan x="0" y="0">On Campus Employment</tspan></text>
+    <text id="Health_Insurance_Waiver_Enrollment" data-name="Health Insurance Waiver/Enrollment" transform="translate(1362 674)" fill="#161925" font-size="18" font-family="ProximaNova-Semibold, Proxima Nova" font-weight="600" text-decoration="underline"><tspan x="0" y="0">Health Insurance Waiver/Enrollment</tspan></text>
+    <text id="Student_Health_Service_Portal" data-name="Student Health Service Portal" transform="translate(1362 721)" fill="#161925" font-size="18" font-family="ProximaNova-Semibold, Proxima Nova" font-weight="600" text-decoration="underline"><tspan x="0" y="0">Student Health Service Portal</tspan></text>
+    <text id="NJ_Transit_Student_Pass_Program" data-name="NJ Transit Student Pass Program" transform="translate(1362 768)" fill="#161925" font-size="18" font-family="ProximaNova-Semibold, Proxima Nova" font-weight="600" text-decoration="underline"><tspan x="0" y="0">NJ Transit Student Pass Program</tspan></text>
+    <g id="Group_3" data-name="Group 3" transform="translate(0 58)">
+      <text id="OTP_Reporting:" data-name="OTP Reporting:" transform="translate(1362 757)" fill="#161925" font-size="18" font-family="ProximaNova-Semibold, Proxima Nova" font-weight="600" text-decoration="underline"><tspan x="0" y="0">OTP Reporting:</tspan></text>
+      <text id="Welcome_to_the_New_Optimal_" data-name="Welcome to the New Optimal," transform="translate(1495 741)" fill="#161925" font-size="17" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="16">Welcome to the New Optimal,</tspan></text>
+      <text id="Practical_Training_OTP_Employment_System_For_F-1_students_on_Optimal_Practical_Training._Update_your_employment_information_here_ONLY." data-name="Practical Training (OTP) Employment System
+For F-1 students on Optimal Practical Training. Update your employment information here ONLY." transform="translate(1362 764)" fill="#161925" font-size="17" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="16">Practical Training (OTP) Employment System</tspan><tspan x="0" y="37">For F-1 students on Optimal Practical Training. </tspan><tspan x="0" y="58">Update your employment information here </tspan><tspan x="0" y="79">ONLY.</tspan></text>
+    </g>
+    <text id="Transcript_Request" data-name="Transcript Request" transform="translate(1362 950)" fill="#161925" font-size="18" font-family="ProximaNova-Semibold, Proxima Nova" font-weight="600" text-decoration="underline"><tspan x="0" y="0">Transcript Request</tspan></text>
+    <text id="Vehicle_Registration" data-name="Vehicle Registration" transform="translate(1362 997)" fill="#161925" font-size="18" font-family="ProximaNova-Semibold, Proxima Nova" font-weight="600" text-decoration="underline"><tspan x="0" y="0">Vehicle Registration</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_17)">
+      <rect id="Rectangle_17-2" data-name="Rectangle 17" width="261" height="41" rx="3" transform="translate(419 54)" fill="#fff"/>
+    </g>
+    <g id="Mask_Group_5" data-name="Mask Group 5" transform="matrix(0.995, 0.105, -0.105, 0.995, 180.488, 26.118)" clip-path="url(#clip-path-3)">
+      <path id="search-solid" d="M17.906,15.7l-3.535-3.535a.85.85,0,0,0-.6-.248H13.19a7.372,7.372,0,1,0-1.276,1.276v.578a.85.85,0,0,0,.248.6L15.7,17.906a.847.847,0,0,0,1.2,0l1-1A.855.855,0,0,0,17.906,15.7ZM7.375,11.913a4.538,4.538,0,1,1,4.538-4.538A4.536,4.536,0,0,1,7.375,11.913Z" transform="translate(255.118 12)" fill="#900"/>
+    </g>
+    <text id="Search_Student_Services" data-name="Search Student Services" transform="translate(477 79)" fill="#900" font-size="15" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">Search Student Services</tspan></text>
+  </g>
+</svg>
