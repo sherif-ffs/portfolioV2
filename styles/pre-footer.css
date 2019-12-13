@@ -21,15 +21,18 @@
     text-align: left;
     margin-top: 10px;
     /* margin-left: 10%; */
-    font-family: Lato, Avenir;
+    font-weight: 100;
+    font-family: Avenir, Lato, Arial, Helvetica, sans-serif;
+    opacity: .8;
     font-size: 1.1rem;
     color: #222;
     font-weight: 100;
     display: inline-block;
-    opacity: .7;
+    /* opacity: .7; */
 }
 .pre-footer a:hover {
     opacity:1;
+    font-weight: 400;
     -webkit-transform: scale(1.05);
     transform: scale(1.05);
     transition: .2s;

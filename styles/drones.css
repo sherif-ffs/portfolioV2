@@ -84,6 +84,7 @@ html, body {
 .visit-site {
   text-align: center;
   font-size: 2rem;
+  /* border: 1px solid blue; */
   color: #CE2D4F;
   font-family: Lato, Avenir;
   font-weight: 600;
@@ -92,7 +93,8 @@ html, body {
 .visit-github {
   font-size: 1.3rem;
   color: #222;
-  margin-top: -3vh;
+  margin-top: 1vh;
+  padding: 0;
   font-weight: 200;
   text-decoration: underline;
   text-transform: lowercase;

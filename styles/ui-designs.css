@@ -103,7 +103,7 @@ html, body {
     text-align: left;
     margin-top: 10px;
     margin-left: 10%;
-    font-family: Avenir;
+    font-family: Avenir, Lato, Arial, Helvetica, sans-serif;
     font-size: 1.3rem;
     color: #333;
     font-weight: 300;
@@ -131,7 +131,8 @@ html, body {
   .my-role-group h3 {
     text-align: left;
     margin-left: 2%;
-    font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
+    /* font-family: Lato, Avenir, Arial, Helvetica, sans-serif; */
+    font-family: Avenir, Lato, Arial, Helvetica, sans-serif;
     font-size: 1.2rem;
     color: #323648;
     font-weight: 600;

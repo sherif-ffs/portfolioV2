@@ -77,6 +77,39 @@ a{
     /* border: 1px solid orange; */
     flex-direction: row;
 }
+@media screen and (min-width: 1900px) {
+    .projectRow {
+        height: 700px;
+    }
+    .project-title {
+        font-family: 'Avenir', sans-serif;
+        font-size: 1.8rem!important;
+        margin-top: 7%;
+        text-align: left;
+        color: #323648;    
+        margin-left: 10%;
+    }
+    .tags {
+        font-size: 1.1rem!important;
+        text-align: left;
+        font-family: Avenir;
+        font-weight: 500;
+        color: #222;    
+        margin-top: -4%;
+        margin-left: 10%;
+        opacity: .4;
+    }
+    .project-p {
+        font-size: 1.5rem!important;
+        text-align: left;
+        font-weight: 100;
+        width: 80%;
+        font-family: Avenir;
+        color: #222;    
+        margin-top: -2%;
+        margin-left: 10%;
+    }
+}
 .projectWrapper {
     display: flex;
     flex: 1;

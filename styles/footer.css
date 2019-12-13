@@ -75,10 +75,14 @@
 }
 footer p {
     text-align: center;
+    font-weight: 100;
+    font-family: Avenir, Lato, Arial, Helvetica, sans-serif;
+    opacity: .8;
 }
 .footer-emoji {
     font-size: 22px;
     font-weight: bold;
+    opacity: 1;
     text-shadow: 0px 1px 1px #000000;
 }
 @media screen and (max-width: 600px) {
