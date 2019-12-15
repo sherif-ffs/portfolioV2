@@ -4,14 +4,49 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <link rel="stylesheet" href="styles/nav-bar.css">
+    <link rel="stylesheet" href="styles/footer.css">
+    <script defersrc="scripts/navBar.js"></script>
+    <link rel="stylesheet" href="styles/about.css">
+    <script defer src="../scripts/navBar.js"></script>
+    <script defer src="../scripts/wine-scroll.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="assets/favicon.png">
+    <title>About Me</title>
 </head>
 <body>
-    <img src="assets/me.JPG" alt="">
-    <style>
-        img {
-            width: 30vw;
-        }
-    </style>
+     <!-- nav-bar -->
+  <header>
+        <div><a href="#" class="nav-title"><span class="left-bracket">{</span>s.e<span class="right-bracket">}</span></a></div>
+        <nav id="nav">
+            <ul class="navigation-list">
+                <li ><a href="#" class="nav-item">Work</a></li>
+                <li><a href="#" class="nav-item">About</a></li>
+                <li ><a href="#" class="nav-item">Resume</a></li>
+            </ul>
+        </nav>
+        <div class="menu-toggle"><i class="fa fa-bars"></i></div>
+    </header>
+    <!-- end of nav-bar -->
+    <div class="container">
+        <div class="img-container">
+            <img src="assets/me.png" alt="">
+        </div>
+        <div class="about-me">
+            <h1>hello!</h1>
+            <p>My name is Sherif, and I'm a designer/developer, and current junior at the New Jersey Institute of Technology studying Human Computer Interaction with a focus on Web and Mobile Development.</p>
+            <p>Long story short, I've been in front of a computer, for better or for worse, for the better part of the last decade. My interest in technology evolved into a passion for web design. When I was introduced to CSS and JavaScript and the creative possibilities it possessed, there was basically no turning back. A love affair with UI/UX design was soon to follow. Since that time, whether working on school projects, interning at NYC startups, or working independently, I've tried to push the envelope, make my mark, and fulfill my creative potential.</p>
+        </div>
+    </div>
+    <!-- footer start-->    
+    <footer class="footer">
+            <div class="footer-item-container">
+                    <a href="https://github.com/sherif-ffs" target="_blank" class="footer-item github"><i class="fa fa-github fa-2x"></i>Github</a>
+                    <a href="https://dribbble.com/selmetwa" target="_blank" class="footer-item dribble"><i class="fa fa-dribbble fa-2x"></i>Dribbble</a>
+                    <a href="https://www.linkedin.com/in/selmetwa/" target="_blank" class="footer-item linkedin"><i class="fa fa-linkedin fa-2x"></i>LinkedIn</a>
+                    <a href="https://codepen.io/dashboard/" target="_blank" class="footer-item codepen"><i class="fa fa-codepen fa-2x"></i>CodePen</a>
+            </div>
+            <p>Designed and coded with <span class="footer-emoji">☕</span> and <span class="footer-emoji">🎵</span></p> 
 </body>
 </html>

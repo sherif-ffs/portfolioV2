@@ -68,12 +68,9 @@ html, body {
 }
 .overview-title {
   text-align: center;
-  font-size: 2rem;
-  color: #222;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  opacity: .7;
+  font-size: 3rem;
+  font-weight: 900;
+	color: #323648;
   font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
 }
 .problem {
@@ -302,17 +299,14 @@ html, body {
 } */
 
 #research {
-  margin-top: 15vh;
+  margin-top: 25vh;
   width: 100%;
 }
 .research-title {
   text-align: center;
-  font-size: 2rem;
-  color: #222;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  opacity: .7;
+  font-size: 3rem;
+  font-weight: 900;
+	color: #323648;
   font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
 }
 
@@ -417,7 +411,7 @@ td, th {
 .section {
   margin-top: 8vh;
 }
-.section h1 {
+/* .section h1 {
   text-align: left;
   margin-left: 10%;
   font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
@@ -427,6 +421,16 @@ td, th {
   letter-spacing: 1x;
   opacity: .8;
   margin-top: 15vh;
+} */
+.section h1 {
+  text-align: left;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-top: 15vh;
+  margin-left: 10%;
+  color: #323648;
+  font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
+  margin-bottom: 20px;
 }
 .section p {
   width: 70%;
@@ -447,17 +451,14 @@ td, th {
   box-shadow: 0px 5px 10px rgba(34, 34, 34, .3);
 }
 #design {
-  margin-top: 15vh;
+  margin-top: 25vh;
   width: 100%;
 }
 .design-title {
   text-align: center;
-  font-size: 2rem;
-  color: #222;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  opacity: .7;
+  font-size: 3rem;
+  font-weight: 900;
+	color: #323648;
   font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
 }
 .ideation img {
@@ -577,15 +578,14 @@ td, th {
     border-radius: 10px;
     box-shadow: 0px 5px 10px rgba(34, 34, 34, .3);
   }
+  #evaluate {
+    margin-top: 25vh;
+  }
   .evaluate-title {
     text-align: center;
-    font-size: 2rem;
-    color: #222;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    margin-top: 20vh;
-    opacity: .7;
+    font-size: 3rem;
+    font-weight: 900;
+    color: #323648;
     font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
   }
   .user-testing li {
@@ -663,16 +663,13 @@ td, th {
   #prototype {
     width: 100%;
     clear: both;
+    margin-top: 20vh;
   }
   .prototype-title {
     text-align: center;
-    font-size: 2rem;
-    color: #222;
-    font-weight: 600;
-    margin-top: 25vh;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    opacity: .7;
+    font-size: 3rem;
+    font-weight: 900;
+    color: #323648;
     font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
   }
   .prototype p {

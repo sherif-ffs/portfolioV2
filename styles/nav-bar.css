@@ -63,23 +63,24 @@
     height: 10vh;
     line-height: 10vh;
     margin-right: 5vw;
-    font-weight: 100;
-    opacity: 1;
+    font-weight: 600;
+    opacity: .85;
+    font-size: 1.1rem;
     color: #323648;
     text-decoration: none;
     display: inline-block;
-    font-family: 'Lato', Avenir, proxima-nova, sans-serif;
+    font-family:  Avenir, proxima-nova, sans-serif;
     transition: .2s;
     transition-timing-function: ease-in-out;
     border-bottom: 0px solid #222; }
 
-  .nav-item:hover {
+  /* .nav-item:hover {
     -webkit-transform: scale(1.10)!important;
     font-weight: 500;
     transform: scale(1.10)!important;
     transition: .2s;
-    /* text-decoration: underline; */
-  }
+    /* text-decoration: underline; 
+  } */
   .menu-toggle {
     color: #222;
     float: right;
