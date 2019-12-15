@@ -293,8 +293,15 @@ html, body {
     height: auto;
     border: 3px solid #CE2D4F;
     padding: 5px;
-    border-radius: 180px;
-    box-shadow: 0px 4px 10px rgba(156, 54, 76, .5);
+  }
+  img {
+    width: 90%!important;
+    margin-left: 5%!important;
+  }
+  .responsive-darwish-gif {
+    width: 70%!important;
+    margin-top: 2vh;
+    margin-left: 15%!important;
   }
   .responsive {
     margin-top: 20vh;

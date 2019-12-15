@@ -36,13 +36,14 @@
     margin-left: 10vw;
     text-decoration: none!important;
     float: left; }
+    
 .left-bracket {
   font-size: 3rem;
-  color: #323648;
+  color: #323648!important;
 }
 .right-bracket {
   font-size: 3rem;
-  color: #323648;
+  color: #323648!important;
 }
   .nav-title:hover {
     transition: .2s;
@@ -65,7 +66,7 @@
     margin-right: 5vw;
     font-weight: 600;
     opacity: .85;
-    font-size: 1.1rem;
+    font-size: 1rem;
     color: #323648;
     text-decoration: none;
     display: inline-block;
@@ -154,7 +155,6 @@
   
     header nav ul {
       display: block;
-      border: 1px solid red!important;
       text-align: center;
       margin-top: 35px; }
   
