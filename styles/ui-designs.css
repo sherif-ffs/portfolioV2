@@ -131,7 +131,6 @@ html, body {
   .my-role-group h3 {
     text-align: left;
     margin-left: 2%;
-    /* font-family: Lato, Avenir, Arial, Helvetica, sans-serif; */
     font-family: Avenir, Lato, Arial, Helvetica, sans-serif;
     font-size: 1.2rem;
     color: #323648;
@@ -176,4 +175,28 @@ html, body {
     letter-spacing: 2px;
     opacity: 1;
     font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
+  }
+ 
+  @media screen and (max-width: 600px) {
+    .banner {
+      height: 300px!important;
+      background-color: #C75146;
+    }
+    .description {
+      flex-direction: column;
+    }
+    .description p {
+      width: 90%;
+      margin-left: 2%;
+    }
+    img {
+      width: 95%!important;
+      margin-left: 2.5%!important;
+    }
+    .thank-you {
+      width: 80%;
+      margin-left: 5%;
+      font-size: 22px;
+      border: 2px dashed;
+    }
   }

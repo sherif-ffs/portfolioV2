@@ -47,3 +47,30 @@
   margin-top: -5px;
   color: #323648;
 }
+@media screen and (max-width: 600px) {
+  .container {
+    flex-direction: column;
+  }
+  .img-container {
+    flex: .7;
+  }
+  .img-container img {
+    margin-left: 10%;
+    width: 80%;
+  }
+  .about-me {
+    margin-top: 10vh;
+  }
+  .about-me h1 {
+    font-size: 35px;
+    margin-left: 5%;
+  }
+  .about-me p {
+    width: 85%;
+    margin-left: 5%;
+  }
+  footer {
+    margin-top: 10vh!important;
+    bordeR: 1px solid red;
+  }
+}
