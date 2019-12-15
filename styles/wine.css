@@ -694,13 +694,10 @@ td, th {
   }
   .future-title {
     text-align: center;
-    font-size: 2rem;
-    color: #222;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    opacity: .7;
-    font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
+  font-size: 3rem;
+  font-weight: 900;
+	color: #323648;
+  font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
   }
 .future-steps li {
   width: 80%;
