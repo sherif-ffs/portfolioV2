@@ -434,3 +434,9 @@ html, body {
     padding-bottom: 50px;
   }
 }
+
+@media screen and (min-width: 1900px) {
+  p {
+    font-size: 22px!important;
+  }
+}

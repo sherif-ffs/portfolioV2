@@ -90,3 +90,10 @@
     bordeR: 1px solid red;
   }
 }
+
+@media screen and (min-width: 1900px) {
+  .about-me p {
+    font-size: 22px!important;
+     width: 50%!important;
+  }
+}

@@ -726,3 +726,9 @@ td, th {
   opacity: .7;
   font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
 }
+
+@media screen and (min-width: 1900px) {
+   p {
+    font-size: 22px!important;
+  }
+}
