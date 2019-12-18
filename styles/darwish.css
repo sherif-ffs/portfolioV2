@@ -439,4 +439,15 @@ html, body {
   p {
     font-size: 22px!important;
   }
+  .darwish-gif {
+    width: 100%;
+    height: 500px;
+  }
+  .responsive-darwish-gif {
+    width: 30%;
+  }
+  .services-darwish-gif {
+    width: 90%;
+    height: 500px;
+  }
 }
