@@ -33,12 +33,12 @@
     <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Dashboard_idea_to_allow_users_to_search_for_events_2_)">
       <rect id="Dashboard_idea_to_allow_users_to_search_for_events_2_2" data-name="Dashboard idea to allow users to search for events (2)" width="350" height="622.533" rx="20" transform="translate(725 200)" fill="url(#pattern-2)"/>
     </g>
-    <text id="BEFORE" transform="translate(194 84)" fill="#454545" font-size="45" font-family="Avenir-Black, Avenir" font-weight="800" opacity="0.5"><tspan x="0" y="0">BEFORE</tspan></text>
-    <text id="AFTER" transform="translate(829 84)" fill="#d34759" font-size="45" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="0" y="0">AFTER</tspan></text>
-    <text id="_01" data-name="01" transform="translate(99 1034)" fill="#d34759" font-size="55" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="0" y="0">01</tspan></text>
-    <text id="Allow_users_to_view_the_price_of_events_without_needing_to_view_the_event_details" data-name="Allow users to view the price of events without needing to view the event details" transform="translate(193 986)" fill="#454545" font-size="21" font-family="Avenir-Roman, Avenir"><tspan x="0" y="21">Allow users to view the price of events </tspan><tspan x="0" y="50">without needing to view the event details</tspan></text>
-    <text id="_02" data-name="02" transform="translate(657 1034)" fill="#d34759" font-size="55" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="0" y="0">02</tspan></text>
-    <text id="Move_the_option_to_save_and_share_the_event_to_the_bottom_of_the_card." data-name="Move the option to save and share the event to the bottom of the card." transform="translate(751 986)" fill="#454545" font-size="21" font-family="Avenir-Roman, Avenir"><tspan x="0" y="21">Move the option to save and share the </tspan><tspan x="0" y="50">event to the bottom of the card.</tspan></text>
+    <text id="BEFORE" transform="translate(194 84)" fill="#454545" font-size="45" font-family="Arial-BoldMT, Arial" font-weight="700" opacity="0.5"><tspan x="0" y="0">BEFORE</tspan></text>
+    <text id="AFTER" transform="translate(829 84)" fill="#d34759" font-size="45" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">AFTER</tspan></text>
+    <text id="_01" data-name="01" transform="translate(99 1034)" fill="#d34759" font-size="55" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">01</tspan></text>
+    <text id="Allow_users_to_view_the_price_of_events_without_needing_to_view_the_event_details" data-name="Allow users to view the price of events without needing to view the event details" transform="translate(193 986)" fill="#454545" font-size="21" font-family="ArialMT, Arial"><tspan x="0" y="19">Allow users to view the price of events </tspan><tspan x="0" y="43">without needing to view the event details</tspan></text>
+    <text id="_02" data-name="02" transform="translate(657 1034)" fill="#d34759" font-size="55" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">02</tspan></text>
+    <text id="Move_the_option_to_save_and_share_the_event_to_the_bottom_of_the_card." data-name="Move the option to save and share the event to the bottom of the card." transform="translate(751 986)" fill="#454545" font-size="21" font-family="ArialMT, Arial"><tspan x="0" y="19">Move the option to save and share the </tspan><tspan x="0" y="43">event to the bottom of the card.</tspan></text>
     <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(252 511)" fill="none" stroke="#d34759" stroke-width="3">
       <rect width="96" height="34" stroke="none"/>
       <rect x="1.5" y="1.5" width="93" height="31" fill="none"/>

@@ -37,10 +37,10 @@
   <g id="sort-events-by-price" clip-path="url(#clip-sort-events-by-price)">
     <rect width="1500" height="1500" fill="#fafafa"/>
     <rect id="Rectangle_2" data-name="Rectangle 2" width="900" height="1320" transform="translate(600)" fill="#d34759" opacity="0.05"/>
-    <text id="BEFORE" transform="translate(194 84)" fill="#454545" font-size="45" font-family="Avenir-Black, Avenir" font-weight="800" opacity="0.5"><tspan x="0" y="0">BEFORE</tspan></text>
-    <text id="AFTER" transform="translate(979 84)" fill="#d34759" font-size="45" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="0" y="0">AFTER</tspan></text>
-    <text id="_01" data-name="01" transform="translate(91 1431)" fill="#d34759" font-size="55" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="0" y="0">01</tspan></text>
-    <text id="Add_slider_to_allow_users_to_filter_events_recommended_to_them_by_price" data-name="Add slider to allow users to filter events recommended to them by price" transform="translate(185 1384)" fill="#454545" font-size="21" font-family="Avenir-Roman, Avenir"><tspan x="0" y="21">Add slider to allow users to filter events </tspan><tspan x="0" y="50">recommended to them by price</tspan></text>
+    <text id="BEFORE" transform="translate(194 84)" fill="#454545" font-size="45" font-family="Arial-BoldMT, Arial" font-weight="700" opacity="0.5"><tspan x="0" y="0">BEFORE</tspan></text>
+    <text id="AFTER" transform="translate(979 84)" fill="#d34759" font-size="45" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">AFTER</tspan></text>
+    <text id="_01" data-name="01" transform="translate(91 1431)" fill="#d34759" font-size="55" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">01</tspan></text>
+    <text id="Add_slider_to_allow_users_to_filter_events_recommended_to_them_by_price" data-name="Add slider to allow users to filter events recommended to them by price" transform="translate(185 1384)" fill="#454545" font-size="21" font-family="ArialMT, Arial"><tspan x="0" y="19">Add slider to allow users to filter events </tspan><tspan x="0" y="43">recommended to them by price</tspan></text>
     <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#select_events_after_any_selected)">
       <g id="select_events_after_any_selected-2" data-name="select events after any selected" transform="translate(124 146)" stroke="rgba(112,112,112,0.2)" stroke-width="0.5" fill="url(#pattern)">
         <rect width="350" height="622.533" rx="20" stroke="none"/>
