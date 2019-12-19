@@ -78,7 +78,7 @@ h1 {
         height: 700px;
     }
     .project-title {
-        font-family: 'Avenir', sans-serif;
+        font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
         font-size: 1.8rem!important;
         margin-top: 7%;
         text-align: left;
@@ -89,7 +89,7 @@ h1 {
     .tags {
         font-size: 1.1rem!important;
         text-align: left;
-        font-family: Avenir;
+        font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
         font-weight: 500;
         color: #222;    
         margin-top: -4%;
@@ -102,7 +102,7 @@ h1 {
         font-weight: 100;
         width: 80%;
         text-decoration: none;
-        font-family: Avenir;
+        font-family: Avenir, Lato, Arial, Helvetica, sans-serif;
         color: #222;    
         margin-top: -2%;
         margin-left: 10%;
@@ -180,7 +180,7 @@ h1 {
     text-align: left;
     font-weight: 100;
     width: 80%;
-    font-family: Avenir;
+    font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
     color: #222;    
     margin-top: -2%;
     margin-left: 10%;

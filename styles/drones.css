@@ -86,7 +86,7 @@ html, body {
   font-size: 2rem;
   /* border: 1px solid blue; */
   color: #CE2D4F;
-  font-family: Lato, Avenir;
+  font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
   font-weight: 600;
   padding-top: 5vh;
 }
@@ -120,7 +120,7 @@ html, body {
   text-align: left;
   margin-top: 10px;
   margin-left: 10%;
-  font-family: Avenir;
+  font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
   font-size: 1.3rem;
   color: #333;
   font-weight: 300;
@@ -160,7 +160,7 @@ html, body {
   text-align: left;
   margin-top: 2px;
   margin-left: 2%;
-  font-family: Avenir;
+  font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
   font-size: 1rem;
   color: #333;
   font-weight: 300;
@@ -206,7 +206,7 @@ html, body {
   text-align: left;
   margin-top: 5px;
   margin-left: 15%;
-  font-family: Avenir;
+  font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
   font-size: 1.4rem;
   color: #333;
   font-weight: 300;
@@ -224,7 +224,7 @@ html, body {
   flex: 1;
 }
 .responsive-paragraph p {
-  font-family: Avenir;
+  font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
   width: 75%;
   margin: auto;
   margin-left: 25%;

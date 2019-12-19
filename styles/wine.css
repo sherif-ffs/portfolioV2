@@ -96,7 +96,7 @@ html, body {
     text-align: left;
     margin-top: 15px;
     margin-left: 10%;
-    font-family: Avenir;
+    font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
     font-size: 1.3rem;
     color: #333;
     font-weight: 300;
@@ -147,7 +147,7 @@ html, body {
   text-align: left;
   margin-top: 15px;
   margin-left: 10%;
-  font-family: Avenir;
+  font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
   font-size: 1.1rem;
   color: #333;
   font-weight: 300;
@@ -176,7 +176,7 @@ html, body {
   text-align: left;
   margin-top: 2px;
   margin-left: 2%;
-  font-family: Avenir;
+  font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
   font-size: 1rem;
   color: #333;
   font-weight: 300;
@@ -223,7 +223,7 @@ html, body {
   text-align: left;
   margin-top: 5px;
   margin-left: 15%;
-  font-family: Avenir;
+  font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
   font-size: 1.4rem;
   color: #333;
   font-weight: 300;
@@ -275,29 +275,6 @@ html, body {
   margin-top: 10vh;
   flex-direction: column;
 }
-/* .my-contribution h1 {
-  text-align: left;
-  margin-left: 10%;
-  font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
-  font-size: 1.5rem;
-  color: #323648;
-  font-weight: 600;
-  letter-spacing: 1x;
-  opacity: .8;
-}
-.my-contribution p {
-  width: 60%;
-  text-align: left;
-  margin-top: 5px;
-  margin-left: 10%;
-  font-family: Avenir;
-  font-size: 1.2rem;
-  color: #333;
-  font-weight: 300;
-  opacity: .9;
-  margin-top: 3vh;
-} */
-
 #research {
   margin-top: 25vh;
   width: 100%;
@@ -316,31 +293,8 @@ html, body {
   width: 100%;
   margin-top: 10vh;
 }
-/* .analysis h1 {
-  text-align: left;
-  margin-left: 10%;
-  font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
-  font-size: 1.5rem;
-  color: #323648;
-  font-weight: 600;
-  letter-spacing: 1x;
-  opacity: .8;
-}
-.analysis p {
-  width: 60%;
-  text-align: left;
-  margin-top: 2px;
-  margin-left: 10%;
-  font-family: Avenir;
-  font-size: 1.2rem;
-  color: #333;
-  font-weight: 300;
-  opacity: .9;
-  margin-top: 3vh;
-} */
-
 table {
-  font-family: arial, sans-serif;
+  font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 90%;
   margin-top: 5vh;
@@ -354,7 +308,7 @@ td, th {
   text-align: left;
   padding: 25px;
   margin-top: 25px;
-  font-family: Lato, Avenir, Arial, Helvetica, sans-serif;  
+  font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
 }
 .list-header {
   padding-top: 10vh;
@@ -365,43 +319,20 @@ td, th {
   margin-top: 2px;
   margin-left: 14%;
   list-style-type: disc;
-  font-family: Avenir;
+  font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
   font-size: 1.2rem;
   color: #333;
   font-weight: 300;
   opacity: .9;
   margin-top: 3vh;
 }
-/* .interviews h1 {
-  text-align: left;
-  margin-left: 10%;
-  font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
-  font-size: 1.5rem;
-  color: #323648;
-  font-weight: 600;
-  letter-spacing: 1x;
-  opacity: .8;
-  margin-top: 15vh;
-}
-.interviews p {
-  width: 60%;
-  text-align: left;
-  margin-top: 2px;
-  margin-left: 10%;
-  font-family: Avenir;
-  font-size: 1.2rem;
-  color: #333;
-  font-weight: 300;
-  opacity: .9;
-  margin-top: 3vh;
-} */
 .interviews li {
     width: 60%;
     text-align: left;
     margin-top: 2px;
     margin-left: 14%;
     list-style-type: disc;
-    font-family: Avenir;
+    font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
     font-size: 1.2rem;
     color: #333;
     font-weight: 300;
@@ -411,17 +342,6 @@ td, th {
 .section {
   margin-top: 8vh;
 }
-/* .section h1 {
-  text-align: left;
-  margin-left: 10%;
-  font-family: Lato, Avenir, Arial, Helvetica, sans-serif;
-  font-size: 1.5rem;
-  color: #323648;
-  font-weight: 600;
-  letter-spacing: 1x;
-  opacity: .8;
-  margin-top: 15vh;
-} */
 .section h1 {
   text-align: left;
   font-size: 1.5rem;
@@ -437,7 +357,7 @@ td, th {
   text-align: left;
   margin-top: 10px;
   margin-left: 10%;
-  font-family: Avenir;
+  font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
   font-size: 1.2rem;
   color: #333;
   font-weight: 300;
@@ -594,7 +514,7 @@ td, th {
       margin-top: 2px;
       margin-left: 14%;
       list-style-type: disc;
-      font-family: Avenir;
+      font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
       font-size: 1.2rem;
       color: #333;
       font-weight: 300;
@@ -624,7 +544,7 @@ td, th {
       margin-top: 2px;
       margin-left: 14%;
       list-style-type: disc;
-      font-family: Avenir;
+      font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
       font-size: 1rem;
       color: #333;
       font-weight: 300;
@@ -677,7 +597,7 @@ td, th {
     text-align: left;
     margin-top: 10px;
     margin-left: 10%;
-    font-family: Avenir;
+    font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
     font-size: 1.2rem;
     color: #333;
     font-weight: 300;
@@ -705,7 +625,7 @@ td, th {
   margin-top: 2px;
   margin-left: 14%;
   list-style-type: disc;
-  font-family: Avenir;
+  font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
   font-size: 1.2rem;
   color: #333;
   font-weight: 300;

@@ -87,7 +87,7 @@ html, body {
   font-size: 2rem;
   color: #727aff;
   text-decoration: none;
-  font-family: Lato, Avenir;
+  font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
   font-weight: 600;
   padding-top: 5vh;
 }
@@ -121,7 +121,7 @@ html, body {
   text-align: left;
   margin-top: 10px;
   margin-left: 20%;
-  font-family: Avenir;
+  font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
   font-size: 1.3rem;
   color: #333;
   font-weight: 300;
@@ -161,7 +161,7 @@ html, body {
   text-align: left;
   margin-top: 2px;
   margin-left: 2%;
-  font-family: Avenir;
+  font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
   font-size: 1rem;
   color: #333;
   font-weight: 300;
@@ -202,7 +202,7 @@ html, body {
   margin-top: 10px;
   margin-left: 20%;
   display: flex;
-  font-family: Avenir;
+  font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
   font-size: 1.5rem;
   color: #333;
   padding-bottom: 75px;
@@ -225,7 +225,7 @@ html, body {
   flex: 1;
 }
 .solution-paragraph p {
-  font-family: Avenir;
+  font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
   width: 70%;
   font-size: 1.3rem;
   color: #333;
@@ -260,7 +260,7 @@ html, body {
   flex: 1;
 }
 .responsive-paragraph p {
-  font-family: Avenir;
+  font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
   width: 75%;
   margin: auto;
   margin-left: 25%;
@@ -296,7 +296,7 @@ html, body {
   flex: 1;
 }
 .services-paragraph p {
-  font-family: Avenir;
+  font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
   width: 75%;
   margin: auto;
   margin-right: 25%;
@@ -342,7 +342,7 @@ html, body {
   text-align: left;
   margin-top: 10px;
   margin-left: 14%;
-  font-family: Avenir;
+  font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
   font-size: 1.3rem;
   color: #333;
   font-weight: 300;

@@ -87,7 +87,7 @@ html, body {
   font-size: 2rem;
   color: #9b3624;
   text-decoration: underline;
-  font-family: Lato, Avenir;
+  font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
   font-weight: 600;
   padding-top: 5vh;
 }
@@ -116,7 +116,7 @@ html, body {
 .section h1 {
   text-align: left;
   margin-left: 10%;
-  font-family: Avenir, Arial, Helvetica, sans-serif;
+  font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
   font-size: 1.5rem;
   color: #323648;
   font-weight: 600;
@@ -129,7 +129,7 @@ html, body {
   text-align: left;
   margin-top: 10px;
   margin-left: 10%;
-  font-family: Avenir;
+  font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
   font-size: 1.3rem;
   color: #333;
   font-weight: 300;
@@ -181,7 +181,7 @@ html, body {
   text-align: left;
   margin-top: 2px;
   margin-left: 2%;
-  font-family: Avenir;
+  font-family:  Avenir,Lato, Arial, Helvetica, sans-serif;
   font-size: 1rem;
   color: #333;
   font-weight: 300;
